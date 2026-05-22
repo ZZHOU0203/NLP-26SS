@@ -10,7 +10,7 @@ from sacrebleu import corpus_bleu, corpus_chrf
 de_path = "../data/KDE4.de-hsb.de"
 hsb_path = "../data/KDE4.de-hsb.hsb"
 
-num_test = 5
+num_test = 2000
 
 
 # =====================
