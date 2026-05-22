@@ -143,7 +143,10 @@ for i in range(test_size):
 # =====================
 # 8. Metrics
 # =====================
-
+with open("qwen_predictions.txt", "w", encoding="utf-8") as f:
+    for p in predictions:
+        f.write(p + "\n")
+        
 references = hsb_references[:len(predictions)]
 
 bleu = corpus_bleu(predictions, [references])
