@@ -1,0 +1,1000 @@
+kiefer@kde.org,coolo@kde.org,F.Schuette@t-online.de, swinter@kde.org,tr@erdfunkstelle.de
+Signieren
+Nachrichten automatisch signieren
+Verschlüsseln
+Versendete Nachrichten & verschlüsselt speichern
+Markieren Sie dieses Ankreuzfeld, um Nachrichten verschlüsselt zu speichern
+Postfachname:
+Port:
+Benutzer:
+Prüfintervall:
+& Einstellungen
+Anhänge auf Anforderung laden
+Mülleimer-Ordner:
+Die Standard-Identität für diesen Zugang verwenden
+Identität:
+Namensräume:
+& Keine
+Einfacher Text
+Vor dem Versand unverschlüsselter Nachrichten & warnen
+Zur Signierung
+Zur Verschlüsselung
+Für Wurzelzertifikate:
+& Einstellungen
+Nachrichten
+& Zielordner:
+Eine neue Identität hinzufügen
+Die ausgewählte Identität umbenennen
+& Umbenennen
+Die ausgewählte Identität entfernen
+Als & Standard verwenden
+HTML-Nachrichten
+HTML-Ansicht vor Klartext bevorzugen
+Verschlüsselte Nachrichten
+Empfangs- und Lesebenachrichtigungen
+Ursprüngliche Nachricht zitieren:
+Vollständige Nachricht
+Nur Vorspann
+Keine MDNs für verschlüsselte Nachrichten senden
+An: @info
+Kopie: Universal custom template type.
+Vorlagentyp:
+Textbaustein hinzufügen
+& Textbaustein:
+& Kurzbefehl:
+Vorlagen einrichten@title Message template
+Antwort an Absender@title Message template
+Allen antworten / der Liste antworten@title Message template
+Nachricht weiterleiten@label:textbox Prefix for quoted message lines
+& Zitatkennzeichnung:@info:whatsthis
+Signatur des OCSP-Antwortservers:
+Datei-Speicherort:
+Auswählen...
+Zielordner:
+Deutsch@item:inlistbox Adjective, language
+Französisch@item:inlistbox Adjective, language
+Beim & Start nach E-Mail sehen
+Benachrichtigung bei neuen Nachrichten
+& Signalton
+Für jeden Ordner die Anzahl neuer Nachrichten anzeigen
+Ordner-Position:
+& Regelung für die Suche nach ungelesenen Nachrichten:
+Im aktuellen Ordner zyklisch suchen
+In allen Ordnern zyklisch suchen
+In allen Ordnern zyklisch suchento be continued with "jump to first new message", "jump to first unread or new message", and "jump to last selected message"
+Zur ersten neuen Nachricht springen
+Zur ersten ungelesenen oder neuen Nachricht springen
+Zur zuletzt ausgewählten Nachricht springen
+Aktuelle Nachricht nach dieser Zeitspanne als & gelesen markieren:
+Beim Beenden lokalen Mülleimer leeren
+Ausführliche Benachrichtigung bei neuen Nachrichten
+Signatur automatisch einfügen
+Zeilenumbruch bei Spalte:
+Automatisch Empfangs- und Lesebestätigungen anfordern
+Intervall für automatisches Speichern:
+Der Signatur ein Trennzeichen voranstellen
+& Nicht anzeigen
+& Lange Ordnerliste
+& Kurze Ordnerliste
+Liste der Anhänge anzeigen.
+Empfangs- und Lesebenachrichtigungen mit leerem Absender senden.
+Nachrichtenvorlage für neue Nachricht
+Nachrichtenvorlage für Antwort
+Nachrichtenvorlage für Antwort an alle
+Nachrichtenvorlage für Weiterleitung
+Zitatzeichen
+Zitierte Nachricht
+Original-Nachrichtentext
+Nachrichtenkennung
+Adresse im„ An“ -Feld
+Name im„ An“ -Feld
+Adresse im„ Kopie“ -Feld
+Name im„ Kopie“ -Feld
+Adresse im„ Von“ -Feld
+Name im„ Von“ -Feld
+Vorname im„ Von“ -Feld
+Nachname im„ Von“ -Feld
+Alle EmpfängerTemplate value for subject of the message
+Nachrichtenvorspann (als Zitat)
+Nachrichtenvorspann (unverändert)
+Inhalt einer Vorspannzeile
+Name im„ Von“ -FeldTemplate subject command.
+Dateiinhalt einfügenAll characters, up to and including the next newline, are discarded without performing any macro expansion
+Kommentar zur Vorlage
+Erzeugte Nachricht löschen
+& Platzhalter einfügen
+Platzhalter einfügen
+Ursprüngliche Nachricht
+Diese Nachricht
+Neu erstellen
+Nur aktuellen Ordner
+Alle Ordner dieses Postfachs
+Zwischenspeicher neu aufbauen
+& Abbrechen
+Verschieben
+Als & Anhang hinzufügen
+Name des Anhangs:
+Als & Text hinzufügen@label:listbox Recipient of an email message.
+Undefinierter Empfängertyp @label:listbox
+Wählen Sie die Art des Empfängers@action:button
+Liste speichern ...@info:tooltip
+Auswählen ...@info:tooltip
+Empfänger aus dem Adressbuch auswählen@info:status No recipients selected
+Keine Empfänger@info:status Number of recipients selected
+Betreuer
+Ursprünglicher Autor
+Früherer Betreuer
+Früherer Mitbetreuer
+Kernentwickler
+Ehemalige Hauptentwickler
+Dokumentation
+Anzeige im Systemabschnitt der Kontrollleiste
+Unterstützung für PGP 6 und weitere Verbesserungen bei Verschlüsselung
+Ursprüngliche Unterstützung für Verschlüsselung Unterstützung für PGP 2 und PGP 5
+Postausgang
+Versendete Nachrichten
+Mülleimer
+Vorlagen
+Nachricht in Datei speichern
+& Ersetzen
+Neue Nachricht an...
+Verknüpfung speichern unter...
+Speichern & unter...
+Nachricht öffnen
+Die Datei enthält keine Nachricht.
+Als MIME-Katalog senden
+Nachrichten werden verschoben
+Nachrichten werden gelöscht
+Adresse wird aufgerufen ...@info
+E-Mail: %1
+& Identität:
+& Wörterbuch:
+Antwort an:@label:textbox Subject of email.
+Betreff:@option:check Sticky identity.
+Automatisches Speichern der Nachricht unter %1 fehlgeschlagen. Grund: %2
+Automatisches Speichern ist fehlgeschlagen
+E-Mail versenden
+Senden
+Später senden mit
+In Postausgang
+& Als Entwurf speichern
+Als & Vorlage speichern
+Datei & einfügen...
+& Kürzlich verwendete Datei einfügen
+& Neue Nachricht
+Empfänger auswählen...
+Als Anhang einfügen
+& Dringend
+& Kodierung festlegen
+Zeilenumbruch
+Automatisch erkennen
+& Alle Felder
+& Identität
+Ordner für & versendete Nachrichten
+Antwort an@action:inmenu Show the subject in the composer window.
+Betreff
+Signatur anfügen
+Signatur & voranstellen
+Öffentlichen Schlüssel anhängen...
+& Eigenen öffentlichen Schlüssel anhängen
+& Datei anhängen...
+Anhängen
+Anhang & entfernen
+Anhang speichern & unter...
+Nachricht mit Chiasmus verschlüsseln...
+Schriftart zurücksetzen
+KMail einrichten...
+Als & Vorlage erneut speichern
+Bearbeiten mit...
+Anhang hinzufügen...
+Nicht komprimieren
+Anhang speichern unter
+Inhalt der Zwischenablage als Anhang einfügen
+Keine Empfänger
+Empfänger ändern
+Anmeldeinformationen
+Die Nachricht wird signiert
+Die Nachricht wird nicht signiert
+Die Nachricht wird verschlüsselt
+Die Nachricht wird nicht verschlüsselt
+Importieren...
+Exportieren...
+Postfachname:
+Nach unten
+Ordner auswählen
+Unbekannter Ordner„ %1“
+Bitte wählen Sie einen Ordner aus.
+Einstellungen zur Aufbewahrung von E-Mails
+Aufbewahrungsfrist für ungelesene Nachrichten
+Abgelaufene Nachrichten verschieben nach:
+Abgelaufene Nachrichten endgültig löschen
+FilternPlaceholder for the case that there is no folder.
+keiner
+Namensräume werden abgeholt ...Empty namespace string.
+Als unerwünscht eingestufte Nachrichten werden als gelesen markiert. Spam-Nachrichten werden in den Ordner namens %1 verschoben.
+Als unerwünscht eingestufte Nachrichten werden als gelesen markiert. Diese Nachrichten werden nicht verschoben.
+Als unerwünscht eingestufte Nachrichten werden als ungelesen markiert. Diese Nachrichten werden in den Ordner %1 verschoben.
+Als unerwünscht eingestufte Nachrichten werden als ungelesen markiert. Diese Nachrichten werden nicht verschoben.
+Erkannte unerwünschte Nachrichten als gelesen & markieren
+Markiert Nachrichten, die als Spam erkannt wurden, als gelesen.
+%1 #%2Message- >
+& Antworten
+Antwort an Verfasser...
+& Ohne Zitat antworten...
+Nachricht & markieren
+Nachricht als & gelesen markieren
+Ausgewählte Nachrichten als gelesen markieren
+Nachricht als & neu markieren
+Ausgewählte Nachrichten als neu markieren
+Nachricht als & ungelesen markieren
+Ausgewählte Nachrichten als ungelesen markieren
+Nachricht als wichtig markieren
+Markierung„ Wichtige Nachricht“ entfernen
+Nachricht als & Aufgabe markieren
+Markierung„ Aufgabe“ entfernen
+Nachricht & bearbeitenMessage- > Forward- >
+& Umleiten...
+Versenden fehlgeschlagen.
+Filter auswählen
+Importfilter
+Exportfiltercalendar_BAR_tasks_BAR_contacts=%2 belonging to %1
+%1's %2folder name (folder storage name)
+Meine %1
+Standardordner%1 is one of the messages with context 'type of folder content'
+Vollständige Nachricht
+Nachrichteninhalt
+Irgendwo im Nachrichtenvorspann
+Alle Empfänger
+Nachrichten-Status
+Nachrichten-MarkierungenSubject of an email.
+Abwesenheitsbenachrichtigungen einrichten
+Ordner wird gelöscht
+Zielordner: %1@info:status Number of folders for which update is completed.
+Auf %1 kann nicht zugegriffen werden.
+Skript löschen
+Skript bearbeiten...
+Skript deaktivieren
+Neues Skript...
+Adressbuch öffnen
+Nach Absender
+Nach Empfänger
+Nach Absender/Empfänger (intelligent)
+Nach Betreff
+Nach Größe
+Nach Aufgaben-Status
+Nach Neu/Ungelesen-Status
+AufsteigendSort order for mail groups
+AbsteigendUnknown date
+nach Absender/Empfänger
+nach Absender
+nach EmpfängerSort order for mail groups
+Absender/Empfänger, flach
+Anhang
+Neu/Ungelesen
+Spam/Ham
+Überwacht/Ignoriert
+Markierungsliste
+Nachricht
+Status
+Zusammenstellung löschen
+Designs einrichten
+Neues Design
+Design löschen
+Unbenanntes Design
+Neue Spalte
+Heute
+BereitDescription of Type Subject
+Symbol für Anhänge
+Aufgaben-Symbol
+Wichtig-Symbol
+Symbol für Signaturstatus
+Max.-DatumDescription for an Unknown Type
+Niemals anzeigen
+Vollständige Suche öffnen
+Jeder Status@action:inmenu Status of a message
+Einrichten...
+Sortierkriterium für Nachrichten
+Sortierung für Nachrichten
+Aktuelle Gruppen aufklappen
+Oberste Nachricht
+Neueste Nachricht
+Gruppen nie aufklappen
+Gruppen mit neuen Nachrichten aufklappen
+Gruppen mit ungelesenen Nachrichten aufklappen
+Gruppen mit ungelesenen oder wichtigen Nachrichten aufklappen
+Gruppe immer aufklappen
+Zusammenstellung und Gruppierung
+Diskussionsfaden-Gruppierung:
+Diskussionsleiter:
+Ein Klick auf die Spaltenüberschrift sortiert die Nachrichten:
+Unbenannte Spalte
+Nachrichtengruppe
+Beispiel-Markierung 1
+Abschwächen@action:inmenu Font setting
+Schriftart@action:inmenu Foreground color setting
+AusblendenKeep a empty space in the list if the mail does not have the attribute, e.g. Important mark on a non important mail
+Gruppenüberschrift@action:inmenu Group header background color setting
+Automatisch@action:inmenu Group header background color setting
+Spalten-Eigenschaften
+Spalte hinzufügen
+Spalte löschen
+Neue Spalte hinzufügen
+Vorspann:
+Symbolgröße:suffix in a spinbox
+Beschreibung:
+Standard-Spalten anzeigen
+NichtsReceiver of the emial
+Gruppen mit Nachrichten von %1@info:tooltip Formats to something like 'Messages sent on 2008-12-21'
+Nachrichten gesendet am %1@info:tooltip Formats to something like 'Messages received on 2008-12-21'
+%1 gesendete Nachrichten@info:tooltip Formats to something like 'Messages received Yesterday'
+%1 empfangene Nachrichten
+Nachrichten versendet an %1
+Nachrichten versendet von %1
+Nachrichten empfangen durch %1
+Datum (Ankunftzeit)Number of unsent messages
+0 nicht versendetNumber of unread messages
+0 ungelesenNumber of unread messages
+0 Nachrichten%1 = n messages, m unread.
+Form
+Nach E-Mail sehen in
+Nach Status filtern
+Spalten anzeigen@title:column Mail account name
+Ergebnis eines Befehls einfügen
+Mein %1 (%2)
+Spalten-Eigenschaften ...@info
+Ungültiger Spezialbefehl %1
+Das Auslesen der Nachrichten-Seriennummern aus der Antwort des Servers ist nicht möglich: %1
+Das Auslesen der ersten Nachrichtenkennung aus der Antwort des Servers ist nicht möglich: %1
+Das Auslesen der Nachrichtenkennung aus der Antwort des Servers ist nicht möglich: %1
+Unerwartete Serverantwort auf %1-Befehl: %2
+Thomas Diehl, Frederik SchwarzerEMAIL OF TRANSLATORS
+thd@kde.org, schwarzerf@gmail.com@item:inmenu
+C++-Header (GPL)@item:inmenu
+Quelltext@info:whatsthis
+Eine sehr einfache C++-Header-Datei (GPL)@info:credit
+Anders Lund < anders\@alweb\.dk > @item:inmenu
+C++-Quelltext-Datei (GPL)@info:whatsthis
+Eine sehr einfache C++-Quelltext-Datei (GPL)@item:inmenu
+HTML-4.01-Dokument (strict)@item:inmenu
+Internet@info:whatsthis
+Erstellt eine sehr einfache HTML-Datei nach der„ strict“ -DTD für HTML 4.01.@item:inmenu
+C++-Quelltext-Datei (LGPL)@info:whatsthis
+Eine sehr einfache C++-Quelltext-Datei (LGPL)@item:inmenu
+Dokumentation@info:whatsthis
+Erstellt den passenden Anfang eines Docbook-Kapitels für ein Kate-Modul.@item:inmenu
+C++-Header (LGPL)@info:whatsthis
+Eine sehr einfache C++-Header-Datei (LGPL)@item:inmenu
+Hervorhebungsdefinition@info:whatsthis
+Diese Vorlage erstellt ein Grundgerüst einer Datei für Kate-Hervorhebungsdefinitionen.@info:credit
+& Datei
+& Bearbeiten
+Zeile: %1 Spalte: %2
+Einf
+ZEILE
+Dokumente
+Neues Dokument erstellen
+Existierendes Dokument öffnen
+Hier werden Dokumente angezeigt, die Sie zuletzt geöffnet haben. Diese Dateien können von hier aus auch leicht erneut geöffnet werden.
+& Alle speichern
+Speichert alle offenen, geänderten Dokumente ab.
+Alle offenen Dokumente neu laden.
+Das aktive Dokument schließen.
+Andere offene Dokumente schließen.
+Alle & schließen
+Alle offenen Dokumente schließen.
+Schließt dieses Fenster
+Öffnen & mit
+Hiermit werden nützliche Tipps zur Benutzung angezeigt.
+Über EditorkomponenteMenu entry Session- > New
+Öffnen...
+& Speichern
+Speichern & unter...
+Als Standard speichern...
+& Verwalten...
+Beenden abgebrochen'document name [*] ', [*] means modified
+Das Programm„ %1“ ist nicht auffindbar.
+Programm nicht gefunden.
+Durch Fremdprogramm geänderte Dateien
+Dateiname
+Geändert
+Erstellt
+Gelöscht
+Das Dokument lässt sich nicht speichern„ %1“
+Alle Dokumente gespeichert
+Dokument gespeichert
+Programm
+Programm-Einstellungen
+Allgemein
+Allgemeine Einstellungen
+(nie)
+Dokumentliste
+Kate
+Zu öffnendes Dokument
+Datei löschen?
+Speichern unter
+Standardsitzung
+SitzungsnameThe number of open documents
+Geöffnete Dokumente
+& Umbenennen...
+Schließen
+Adresse
+Name
+Projekte
+Sitzung & nicht speichern
+Sitzung speichern?
+Dateitypen:
+Datei
+Datei öffnen...
+Indiziere Dateien...
+Abbruch gescheitert
+Warnung
+Zahllose Fehlerberichte, Tests der Benutzbarkeit, technische UnterstützungNAME OF TRANSLATORS
+Stephan Johach, Jannick KuhrEMAIL OF TRANSLATORS
+Datenbezeichner :„ %1“ .Translate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.
+Objektdatabase connection
+& Textansicht
+Klicken Sie auf„ OK“, um den Vorgang fortzusetzen.Keep this text narrow: split to multiple rows if needed
+Kexi erstellt eine neue, leere Datenbank.Keep this text narrow: split to multiple rows if needed
+Kexi erstellt ein neues Datenbankprojekt unter Verwendung der ausgewählten Vorlage. Wählen Sie die Vorlage und klicken Sie auf„ OK“ um fortzufahren.Keep this text narrow: split to multiple rows if needed
+Datenbankserver: %1unspecified user
+Anlegen
+Einfügen SpezialClose the current tab page in Kexi tab interface
+Projekt-Einstellungen
+Tabellen importieren
+Komprimiert das aktuelle Datenbankprojekt, so dass es weniger Speicher belegt und schneller arbeitet.
+Importiert Tabellendaten aus einer Datei.
+Zeigt die Seiteneinstellungen für das Drucken der aktive Tabelle oder Abfrage.
+Fügt Daten aus der Zwischenablage in eine Tabelle ein.
+Eigenschafteneditor
+Das Datenbankprojekt %1 scheint nicht mit Kexi erstellt worden zu sein. Möchten Sie es als neues Kexi-Projekt importieren? Import Database
+Drucken"executing object "action
+Öffnen
+Eigenschaften
+Application name as menu entry
+Extras
+(Aktuelles Feld)
+Nächste Seite
+Letzte SeitePage (number) of (total)
+Bitte geben Sie den Titel ein.
+Projektnavigator
+Eigenschafteneditor
+Importieren
+NeinEditable combobox
+Spalte %1
+Datum
+TextNumeric type for column
+KeinerFor Word Wrap Position
+Nicht nÃ¤her bestimmter Fehler aufgetretenshort for 'expression' word, e.g. 'expr' (only latin letters, please)
+Die Tabelleâ %1â enthÃ¤lt kein Feld mit dem Namenâ %2â .Field List Error
+Einfügen
+Ausschneiden
+Inhalt von %1Edit rich text for a widget
+FormularThis string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+formulartooltip
+Benutzerdefiniertes OberflächenelementThis string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+TextfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+textfeld
+GrafikfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+bild
+ZeileneditorWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ZwischenraumWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+zwischenraum
+KnopfWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+knopf
+Ein einfacher Knopf, um Aktionen auszuführen
+AuswahlknopfWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+auswahlknopf
+AnkreuzfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+DrehfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+KombinationsfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ListenfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ListenelementWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+TexteditorWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+SchiebereglerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+Ein waagerechter Schieberegler
+FortschrittsanzeigeWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+LinieWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+DatumWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ZeitWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+Datum/ZeitWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+UmschaltenButton is checkable
+Automatisch wiederholenAuto Repeat Button's Delay
+Verzögerung für automatische WiederholungAuto Repeat Button's Interval
+StandardTristate checkbox, yes
+FlachEcho mode for Line Edit widget eg. Normal, NoEcho, Password
+AusrichtungChecked checkbox
+AktiviertTristate checkbox
+TextformatFor Text Format
+EinfachRaised (HINT: for Frame Shadow)
+HypertextFor Text Format
+Protokollproperty: Can open external links in label
+Ext. Verknüpfungen öffnen
+BefehlsknopfPassword Mode for line edit
+PasswortmodusSqueezed Text Mode for line edit
+Zeilenumbruch-RegelungFor Word Wrap Policy
+An WortgrenzeFor Word Wrap Policy
+IrgendwoFor Word Wrap Policy
+Zeilenumbruch-PositionFor Word Wrap Position
+ElementbreiteFor Word Wrap Position
+In PixelnFor Word Wrap Position
+Waagerechte Bildlaufleiste
+Senkrechte BildlaufleisteShow Scroll Bar As Needed
+Bei BedarfScroll Bar Always Off
+Rich TextProperty: HTML value of text edit
+Inhalt des Listenelements bearbeitendefault indent value
+Seite hinzufügenRemove tab widget's page
+Seite entfernenGo to Previous Page of a Stacked Widget
+Geben Sie einen neuen Titel für die aktuelle Seite ein:Add page to a stacked widget
+Seite hinzufÃ¼gen ...Remove page from a stacked widget
+Zur vorherigen SeiteGo to Next Page of a Stacked Widget
+KnopfgruppeWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+KarteikarteGroup Box (HINT: for Frame Shape)
+BasiscontainerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+GruppenfeldPlain (HINT: for Frame Shadow)
+RahmenWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+StapelWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+Waagerechtes FeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+Senkrechtes FeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+GitterfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+TrennerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ZeilenanordungWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+SpaltenanordungWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+UnterformularWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ReiterformEcho mode for Line Edit widget eg. Normal, NoEcho, Password
+Echo-ModusTab Widget uses scroll buttons
+for Tab Shape
+Abgerundetfor Tab Shape
+KurzinfoWidget's Whats This
+Senkrechte Bildlaufleiste
+Waagerechte Bildlaufleiste
+VordergrundpaletteAuto (HINT: for AutoText)
+Links
+Rechts
+Zentriert
+BündigTop (HINT: for Align)
+Oben
+Unten
+Kein RahmenBox (HINT: for Frame Shape)
+BoxPanel (HINT: for Frame Shape)
+KontrollleisteWindows Panel (HINT: for Frame Shape)
+Windows-KontrollleisteHoriz. Line (HINT: for Frame Shape)
+Waagr. LinieVertical Line (HINT: for Frame Shape)
+Senkrechte LinieStyled (HINT: for Frame Shape)
+StilvollPopup (HINT: for Frame Shape)
+AufklappmenüMenu Bar (HINT: for Frame Shape)
+MenüleisteToolbar (HINT: for Frame Shape)
+WerkzeugleisteText Box (HINT: for Frame Shape)
+TextfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ErhöhtSunken (HINT: for Frame Shadow)
+Eingesunkenfor Frame Shadow
+Keine AktivierungTab (HINT: for Focus)
+TabulatorClick (HINT: for Focus)
+KlickTab/Click (HINT: for Focus)
+Tabulator/KlickTab/Click/MouseWheel (HINT: for Focus)
+Links nach Rechts
+Rechts nach Links
+Die Anordnung kann nicht erstellt werden. Alle gewählten OberflÃ¤chenelemente müssen vom gleichen Ã¼bergeordneten Element abgeleitet sein.Translators: please keep this string short (less than 20 chars)
+Waagerechte AusrichtungTranslators: please keep this string short (less than 20 chars)
+Aktuell
+Seiteneinstellungen anzeigenNote: use multiple rows if needed
+In Datei exportieren Als DatentabelleNote: use multiple rows if needed
+Aktion einem Befehlsknopf zuweisenAssign action
+Name des OberflächenelementsWidget's type
+Aktivierungs-Reihenfolge automatisch vergebenInsert Horizontal Widget
+Waagerecht einfÃ¼genInsert Vertical Widget
+& Rechnername:port: default
+Socket-Datei anstelle eines TCP/IP-Ports verwendensocket: default
+Spalte:
+Parameter
+* (Alle Spalten)
+Aktuelle Zeilennummer"of "in row number information: N of M
+& Nicht ersetzenObject name: Object type
+Exportieren
+Exportiert die Daten der ausgewählten Tabelle oder Abfrage in eine Datei.Export- > To File As Data & Table...
+Außen- bereichEnter Query Parameter Value
+Parameterwert eingebenBoolean True - Yes
+JaGeneral properties
+Tabelle:Insert table/query into relations view
+Ausgewählte & Tabelle/Abfrage Ã¶ffnenText encoding: Default
+Abfrage definieren ...Question
+Korrekt
+OriginalWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+Ein einfaches RahmenelementText Label
+Textfeld
+BildfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+AutofeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters
+Befehlsknopf
+Ein Befehlsknopf, um Aktionen auszuführen
+Schatten aktiviertOn: button
+EditortypAutoField editor's type
+Mehrzeiliger TextAutoField editor's type
+AufklapplisteAutoField editor's type
+Automatische Beschriftung
+Textfarbe der Beschriftung(a property name, keep the text narrow!)
+Keine Beschriftung
+Skalierter InhaltKeep Aspect Ratio (short)
+RahmenfarbeDrop-Down Button for Image Box Visible (a property name, keep the text narrow!)
+Auswahl Knopf sichtbarTristate checkbox, default
+Mehreren Elementen kann keine Datenquelle zugeordnet werden.Table Field or Query Field
+Verfügbare FelderInsert selected field into form
+Fügt die ausgewählten Felder in ein Formular einTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.
+Neues Formular erstellenwhat's this
+Oberflächenelement anordnen
+& Waagerecht
+& Senkrecht
+Waagerecht in einem & Trenner
+Andere Oberflächenelemente
+Nach links
+Nach rechts
+Nach oben
+Nach unten
+An Gitter
+Größe der Oberflächenelemente anpassen
+Passend
+An das Kürzeste
+An das Längste
+An das Schmalste
+An das Breiteste
+Oberflächenelemente
+Klicken Sie, um Aktionen fÃ¼r das Bildfeldâ %1â anzuzeigenUnbound Image Box
+(ungebunden)Widget's Whats This
+%1 (ungebunden)Unbound Auto Field
+Spalten abfragen
+Spalte
+Summen
+Sortieren
+Seite
+Kopieren
+Ring
+Nach vorne
+Nach hintenTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.
+Berichttooltip
+Neuen Bericht erstellenwhat's this
+Kopiere
+Exportiere
+falsch
+Es wurde kein Primärschlüssel (Autonummerierung) definiert. Soll dieser automatisch während des Imports definiert werden (empfohlen)? Beachten Sie dabei, dass eine importierte Tabelle ohne Primärschlüssel, in Abhängigkeit des Datenbanktyps, unter Umständen nicht editierbar ist.Add Database Primary Key to a Table
+Primärschlüssel hinzufügenDo Not Add Database Primary Key to a Table
+Die Daten wurden erfolgreich in die Tabelle„ %1“ importiert.Text type for column
+Währungrow count
+(Zeilen: %1)row count
+Immer diese Kodierung zum Importieren von CSV-Dateien verwendenDate format: Auto
+Tagdo not reorder placeholders, just translate e.g. and - to the separator used by dates in your language
+Tabellenfeld„ %1“ einfügenTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.
+tabelletooltip
+Neue Tabelle erstellenwhat's this
+UntertypImage object type
+Sichtbare DezimalstellenAuto Decimal Places
+Gebundene Spalte
+& PrimÃ¤rschlÃ¼ssel hinzufügenIdentifier%1
+Tabellenfeldâ %1â Empty table row
+Optionen
+Extras
+Spalte 1
+KWord HTML-ExportfilterDescriptive encoding name
+Empfohlen (%1)Descriptive encoding name
+KWord Importfilter für einfachen TextDescriptive encoding name
+Tabelle %1Object name
+Bild %1Frameset name
+Kopfzeile für gerade Seiten
+Kopfzeile für ungerade Seiten
+Fußzeile für gerade Seiten
+Fußzeile für ungerade Seiten
+Kopfzeile für erste Seite
+Fußzeile für erste Seite
+KWord Microsoft Write-ImportfilterFrameset name
+Fußnote %1Table_Name Cell row,column
+AbiWord-ImportfilterFrameset name
+Speichern des Dokuments nicht möglichObject name
+Tabellenrahmen %1Pseudo-author for annotations
+Land (%1)
+Folie kopieren
+Erste Folie
+Letzte Folie
+Normal
+Objekt bearbeiten
+Folienlayouts
+Seiteneffekt erstellen
+Seiteneffekt bearbeiten:
+Seiteneffekt löschen
+Schwarz
+Linie
+Form
+Format
+Objekte & anordnen
+Text
+Typ
+Rechtschreibprüfung
+Autokorrektur
+Werkzeuge
+Format
+Text
+Navigation
+Ergebnis der Rechtschreibprüfung
+PräsentationNAME OF TRANSLATORS
+Thomas Diehl, Jannick KuhrEMAIL OF TRANSLATORS
+Schließen
+Folien
+& Folie
+Schlangen in Kasten
+Zwei Kästen links beginnend
+Zwei Kästen rechts beginnend
+Zwei Kästen links endend
+Wasserfall
+Parallele Schlangen
+Diag. oben links gegenläufig beginnend
+Spirale
+Im Uhrzeigersinn oben li. beginnend
+Im Uhrzeigersinn oben li. endend
+Im Uhrzeigersinn oben re. beginnend
+Im Uhrzeigersinn unten li. beginnend
+Im Uhrzeigersinn unten li. endend
+Ggn. Uhrzeigersinn oben li. beginnend
+Ggn. Uhrzeigersinn oben li. endend
+Ggn. Uhrzeigersinn unten li. beginnend
+Ggn. Uhrzeigersinn unten li. endend
+Schlange
+Rechteck
+Pfeilspitze
+Doppelter Schwung
+Parallel diagonal oben links
+Parallel diagonal unten links
+Parallel diagonal oben links invertiert
+Parallel diagonal unten links invertiert
+Windrad
+Uhr
+Saloon-Tür
+Windschutzscheibe
+Doppelter Fächer
+Einzelner Schwung
+Im Uhrzeigersinn links
+Einschieben
+An Ecken endend
+Verschiedenes diagonal
+Scheunentor
+Diagonal unten links
+Diagonal oben links
+Diagonal
+Scheunentor zickzack
+KThesaurus
+KThesaurus - Synonyme auflisten
+(c) 2001 Daniel Naber
+Begriff, nach dem beim Start gesucht werden sollNAME OF TRANSLATORS
+Thomas Diehl, Jannick KuhrEMAIL OF TRANSLATORS
+thd@kde.org, opensource@kuhr.org
+Allgemein
+Anzahl Seiten:
+Anzahl Rahmen:
+Anzahl Abbildungen:
+Anzahl Tabellen:
+Text
+Wörter:
+Silben:
+Ostasiatische Zeichen
+Haupttextbereich erstellen
+Spalten
+Anlegen
+Lesezeichen auswählen
+Lesezeichen
+& Umbenennen
+& Löschen
+Name des Rahmensatzes:
+Neuen Rahmensatz erstellen:
+Name für Rahmensatz
+Position
+Breite:
+Höhe:
+Ränder
+Unten:
+Oben:
+Rechts:
+Links:
+Neues Lesezeichen erstellen
+Lesezeichen ermöglichen es Ihnen, zwischen Abschnitten Ihres Dokuments zu springen. Bitte geben Sie den Namen Ihres Lesezeichens ein.
+Name:
+Neue Seite erstellen
+Größe des letzten Rahmens anpassen
+Kopie des aktuellen Rahmens erstellen
+Änderungen werden auf alle Rahmen eines Rahmensatzes angewendet.
+Textlayout in anderen Rahmen
+Text durchfließt diesen Rahmen
+Text umfließt diesen Rahmen
+Text umfließt diesen Rahmen nicht
+Seite umfließen
+Links
+Rechts
+Spalten:
+Spaltenabstand:
+Wörter
+...
+Automatisch neu zählen
+& Datei
+& Ansicht
+AnzeigemodusInsert menu
+& Einfügen
+& Format
+& Rahmen
+Rechtschreibprüfung
+Autokorrektur
+& Einstellungen
+Bearbeiten
+Tabelle
+Einfügen
+Absatz
+Schriftart
+Format
+Umrandungen
+Serienbrief
+Formel
+Ergebnis der Rechtschreibprüfung
+Variable ändern inStyle name
+StandardStyle name
+Überschrift 1
+Überschrift 2
+Überschrift 3
+Nummerierte ListeStyle name
+Alphabetische ListeStyle name
+Aufzählungszeichen
+Inhalt-TitelStyle name
+Inhalt-Überschrift 1Style name
+Inhalt-Überschrift 2Style name
+Inhalt-Überschrift 3Style name
+DokumenttitelStyle name
+Kopfzeile
+Fußzeile
+EinfachStyle name
+Umrandung 1Style name
+Umrandung 2Style name
+Umrandung 3Style name
+Zeile
+Spalte
+HellgrauStyle name
+DunkelgrauStyle name
+SchwarzStyle name
+HellblauStyle name
+DunkelblauStyle name
+RotStyle name
+GelbStyle name
+FarbenfrohStyle name
+BläulichStyle name
+Einfach 1Style name
+Einfach 2Style name
+Einfach 3Style name
+Überschrift 1Style name
+Überschrift 2Style name
+Überschrift 3Style name
+Überschrift 4Style name
+Spalten 1Style name
+Spalten 2Style name
+Gitter 1Style name
+Gitter 2Style name
+Gitter 3Style name
+Graue ÜberschriftStyle name
+Blaue ÜberschriftStyle name
+Blau traditionellStyle name
+Grau traditionellStyle name
+Oben und unten blauStyle name
+Oben und unten grau
+Textrahmen verbinden
+Geometrie
+Textumfluss
+Rahmensatz
+Lesezeichen umbenennen
+Zu öffnende Datei
+Ungültiges Dokument. Kein MIME-Typ angegeben.
+Ungültiges Dokument: Seitengröße %1x%2
+Seite entfernen
+Seiteneigenschaften
+Benutzerdefinierten Umriss erstellen
+Rahmen erstellen
+Seite einfügen
+Rahmen löschen
+Kopfzeile für ungerade Seiten
+Kopfzeile für gerade Seiten
+Fußzeile für ungerade Seiten
+Fußzeile für gerade Seiten
+Haupttext
+Rahmen/Rahmensatz-Eigenschaften
+Rahmensatz-Eigenschaften ändern
+Seitenumbruch
+Sämtlicher Text nach diesem Punkt fließt auf die nächste Seite.
+Schaltet die Anzeige von Kopfzeilen in KWord aus und ein. Kopfzeilen stehen in extra Rahmen am oberen Rand jeder Seite. Sie enthalten Seitenzahlen und/oder sonstige Informationen.
+Schaltet die Anzeige von Fußzeilen in KWord aus und ein. Fußzeilen stehen in extra Rahmen am unteren Rand jeder Seite. Sie enthalten Seitenzahlen und/oder sonstige Informationen.
+Rahmen nach vorne
+Den aktiven Rahmen vor alle anderen bringen
+Den ausgewählten Rahmen ganz nach vorne bringen, so dass er über allen anderen Rahmen erscheint. Das hat natürlich nur Sinn, falls sich Rahmen überlappen. Wurden mehrere Rahmen ausgewählt, so werden sie im Wechsel nach vorn gebracht.
+Rahmen nach hinten
+Den ausgewählten Rahmen so einordnen, dass unter jedem anderen zu liegen scheint, mit dem er sich überlappt.
+Den ausgewählten Rahmen so einordnen, dass unter jedem anderen zu liegen scheint, mit dem er sich überlappt. Wurden mehrere Rahmen ausgewählt, so werden sie im Wechsel nach hinten gebracht.
+Ganz nach vorne
+Variable
+Lesezeichen...
+Lesezeichen auswählen...
+Bild einfügen...
+Rahmenumrandungen
+Seitenlayout...
+Eigenschaften der ganzen Seite ändern
+Eigenschaften der ganzen Seite ändern. Gegenwärtig lassen sich Papierformat und -ausrichtung, die Größen der Kopf- und Fußzeilenrahmen sowie die Spalten-Einstellungen ändern.
+Aktuellen Rahmen in einen im Text mitfließenden Rahmen umwandeln
+Den aktuellen Rahmen in einen„ mitfließenden“ umwandeln. Platzieren Sie einen solchen mitfließenden Rahmen innerhalb des Textes möglichst nah seiner jetzigen Position.
+Indexseite
+Informationen zur Anzahl der Zeichen, Wörter, Silben und Sätze in diesem Dokument. Außerdem wird die Lesbarkeit anhand des Flesch-Algorithmus bewertet.
+Seite löschen
+Formatierungszeichen
+Alle Rahmen auswählen
+Löschen
+Eine Kopie des aktuellen Rahmens erstellen, die mit ihm verbunden bleibt. Eine Änderung des Inhalts dieses Rahmens zieht entsprechende Änderungen in allen solchen Kopien nach sich.
+Umrisse erstellen
+Gespeichert
+Seite: %1/%2
+Ungültige OASIS OpenDocument-Datei: Keine office:body-Markierung gefunden.
+Ungültige OASIS OpenDocument-Datei: Keine Markierung in office:body gefunden.
+KFormula
+Kopie
+Falls Text nicht in Rahmen passt
+Bei Erstellung von neuen Seiten
+(Keine Übereinstimmung)
+Suchen nach:
+Suchen@action:button Go back to the previous word in history
+Vorwärts
+Sprache ändern...
+& Thesaurus
+Sinnverwandte Wörter
+Allgemeinere Ausdrücke
+Speziellere Ausdrücke
+& WordNet
+& Ersetzen durch:@action:button Close thesaurus dialog
+& Ersetzen
+Wort ersetzen
+Verwandte Wörter - %1
+Die Thesaurusdatei„ %1“ ist nicht auffindbar. Bitte benutzen Sie„ Sprache ändern“, um eine solche Datei auszuwählen.
+Fehler: Das Programm„ grep“ ließ sich nicht ausführen.
+Sinnverwandte u. übergeordnete Wörter (nach Häufigkeit)
+Sinnverwandte Wörter (nach Ähnlichkeit; nur Verben)
+Gegensätze (Antonyme)
+Untergeordnete Wörter (Hyponyme): %1
+Meronym (Teil eines Ganzen in der Art von: %1 hat ein...)
+Holonyme (Gesamtheit, die %1 als Teil enthält)
+Attribute
+Ursache für (nur für Einzelfälle)
+Verbumfang (Anwendungsbeispiele)
+Liste zusammengesetzter Wörter
+Bedeutungsübersicht
+Fehler: Ausführung des WordNet-Programms„ wn“ fehlgeschlagen. WordNet muss auf Ihrem Rechner installiert sein, wenn Sie es benutzen möchten, und„ wn“ muss sich in Ihrem PATH befinden. WordNet erhalten Sie unter http://www.cogsci.princeton.edu/~wn /. Beachten Sie, dass WordNet nur die englische Sprache unterstützt.
+Keine Fundstellen für„ %1“
+Druckerverwaltung als normaler Benutzer Manche Verwaltungsfunktionen im Druckbereich erfordern die Rechte des Systemverwalters (Benutzer root). Drücken Sie auf den Knopf„ Systemverwaltungsmodus“, um das Modul mit diesen Rechten zu starten.
+kcmprintmgr
+KDE-Druckerverwaltung
+(c) 2000 - 2002 Michael Goffioul
+Michael Goffioul
+Drucker Die Druckerverwaltung ist Teil von KDEPrint, einer Schnittstelle zu den Druckfunktionen Ihres Betriebssystems. KDEPrint fügt hier zwar weitere Möglichkeiten hinzu, hängt aber grundsätzlich von der hier bereitgestellten Funktionalität ab. Das betrifft v.a. Druckerwarteschlangen und Filter-Aufgaben, aber auch einige Verwaltungsaufgaben (wie das Hinzufügen oder Ändern von Geräten, Zugriffsrechten usw.). Welche Funktionen KDEPrint unterstützt, wird also weitgehend vom gewählten Drucksystem bestimmt. Das KDE-Team empfiehlt CUPS-basierte Drucksysteme.NAME OF TRANSLATORS
+Thomas DiehlEMAIL OF TRANSLATORS
+thd@kde.org
+Fehlender Druckbefehl.
+PostScript-Drucker
+Erstellung von PostScript-Dateien
+Ledger
+US Legal
+US Letter
+A4
+A3
+B4
+B5
+Aktiviert
+Deaktiviert
+Ghostscript-Einstellungen
+Treiber
+Auflösung
+Farbtiefe
+Zusätzliche Ghostscript-Optionen
+Allgemein
+Seitenformat
+Seiten pro Blatt
+Linker/rechter Rand (1/72 Zoll)
+Oberer/unterer Rand (1/72 Zoll)
+Text-Optionen
+EOF (Dateiende-Signal) senden, um die Seite auszuwerfen
+Treppenartigen Text ausgleichen
+Schnelle Druckausgabe (nur für Nicht-PostScript-Drucker)
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar. Überprüfen Sie die Installation.
+Lokaler Drucker (parallel, seriell, USB)

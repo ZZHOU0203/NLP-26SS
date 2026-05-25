@@ -1,0 +1,2000 @@
+LPD- rynk na druhim ličaku
+zhromadny SMB- ćišćak (Windows)
+syćowy ćišćak (TCP)
+Datajowy pseudoćišćak (ćišći do dataje) Unknown type of local printer queue
+Njeznaju
+Lokalny ćišćenski rynk (% 1)
+Unknown Driver
+LPD- rynk na druhim ličaku% 1 @% 2
+Njemóžu spoolowy zapisk% 1 za ćišćak% 2 stworić.
+Njemóžu informaciju wo ćišćaku% 1 zawěsćić.
+Njemóžu prawe přistupne prawa nastajić za zapisk% 1 ćišćaka% 2.
+Njeje dowolene. Dyrbiće root być.
+Njemóžu přikaz "% 1" wuwjesć.
+Njemóžu dataju printcap pisać.
+Njemóžach ćěrjak% 1 w datowej bazy printtoola namakać.
+Njemóžach ćišćak% 1 dataji printcap namakać.
+Žadyn ćěrjak (syre daty)
+Njespóznaju družinu ćišćaka.
+Ćišćakowy ćěrjak% 1 njebu do wašeho GhostScripta zakompilowany. Přepruwuj swoju instalaciju abo wubjerće hinaši ćěrjak.
+Njemóžu za ćěrjak trěbne dataje do spooloweho zapiska pisać.
+APS- ćěrjak (% 1)
+Syćowy ćišćak (% 1)
+Njepodpěrowany backend:% 1
+Njemóžu zapisk% 1 stworić.
+Falowacy element:% 1.
+Njekorektna specifikacija za ćišćakowy ćěrjak:% 1
+Njemóžu dataju% 1 stworić.
+APS- ćěrjak njeje definowany.
+Njemóžu zapisk% 1 zničić.
+Njeznaty zapis
+Dalokorynk (% 1) na% 2
+Lokalny ćišćak na% 1
+Njeznaty zapis.
+Printcap- dataja njeje lokalna (NIS). Njemóžu do njeje pisać.
+Njemóžu printcap- dataju zawěsćić. Přepruwujće, hač směće do tuteje dataje pisać.
+Nutřkowny zmylk: žadyn handler definowany.
+Njewěm, hdźe je spoolowy zapisk. Pohladaj do opcijowy dialog.
+Njemóžu spoolowy zapisk% 1 stworić. Přepruwujće, hač maće trěbne přistupne prawa za tutu operaciju.
+Ćišćak bu stworjeny, ale ćišćenski demon njehodźeše so znowa startować.% 1
+Njemóžu spoolowy zapisk% 1 zničić. Přepruwujće, hač maće prawo pisanja za tutón zapisk.
+& Zapis do printcap wobdźěłać
+Manualne zapisy w printcap- dataji wobdźěłać měł jenož nazhonity administrator. To móže tomu zadźěwać, zo ćišćak funguje. Chceće woprawdźe pokročować?
+Spoolowa družina:% 1
+Njepodpěrowana operacija.
+Spooler
+Nastajenje spoolera
+Program% 1 njeje so w wašim PATH namakał.
+Njeje dowolene.
+Ćišćak% 1 njeeksistuje.
+Njeznaty zmylk:% 1
+Njemóžu lprm startować:% 1
+njeznaju
+IFHP- ćěrjak (% 1)
+Žadyn ćěrjak za tutón ćišćak definowany. Snadź bjerje syre daty (raw printer).
+LPRngTool Common Driver (% 1)
+Syćowy ćišćak
+Nutřkowny zmylk.
+Njenamakam program foomatic- datafile w wašim PATH. Přepruwujće, hač je Foomatic korektnje instalowany.
+Njemóžu Foomatic- ćěrjak stworić [% 1,% 2]. Pak ćěrjak njeeksistuje, abo nimaće trěbne prawa, zo by tutu akciju wukonjał( a).
+Najskerje nimaće prawa, zo by tutu operaciju wuwjedł.
+Njejsym program lpdomatic namakał. Přepruwuj, hač je Foomatic prawje instalowany a hač je lpdomatic na standardnym městnje instalowany.
+Njemóžu ćěrjakowu dataju% 1 zničić.
+Dalše pomjenowanja:
+string
+Čisło
+Booleowy
+Zapis w printcap:% 1
+Městno so wužiwa za wopisowanje stejnišćo ćišćaka. Wopisowanje napisa administrator systema, móže so pak tež wuwostajić.
+Městno so wužiwa za wopisowanje stejnišćo ćišćaka. Wopisowanje napisa administrator systema, móže so pak tež wuwostajić.
+Ćišćeć
+Ćišćak
+& Mjeno: Status
+Staw:
+Družina:
+Městnosć:
+Komentar:
+Swójstwa
+Systemowe & opcije...
+Jako & standard postajić
+Njemóžu lisćinu ćišćakow dóstać.
+Ćišćak dodać...
+Ćišćeć
+Přehladka
+Dataja za & output:
+Přikaz za ćišćenje:
+Pokaž opcije za pokročenych
+& Njezačiń tutón dialog po ćišćenju
+Zmylk je so stał při dóstawanju lisćiny ćišćakow
+Dataja za output nima mjeno.
+Nimaće prawa do tuteje dataje pisać.
+Dataja abo zapisk% 1 njeeksistuje.
+Nimaće prawo do tutoho zapiska pisać.
+& Opcije
+Initializuju ćišćenski system...
+Do dataje ćišćeć
+Wšitke dataje
+Opcije za pokročenych
+Hnydom
+Ženje (čaka wěčnje)
+Prawy:
+Kónc tydźenja
+Třeća změna (12. 00- 20. 00)
+Definowany čas
+& Plan za ćišćenje:
+Informacija wo & wotličenju:
+Markěrowanja na stronach horjeka/ deleka:
+& Priorita nadawka:
+Specifikowany čas njeje walidny.
+Žana chorhoj
+Interna informacija
+Dowěrliwy
+Tajna informacija
+Standard
+Cyle tajna informacija
+Žana interna informacija
+Wubjerće chorhoje
+& Startowanska chorhoj:
+& Kónčna chorhoj:
+Wubjerće chorhoji, kiž maja so z tutym ćišćakom zwjazać. Tutej chorhoji so zasuwaja před a po kóždym ćišćenskim nadawku, kiž so ćišćakej sćele. Njechaće- li chorhoji wužiwać, wubjerće Žana chorhoj
+& Eksportowanje
+Ćišćek za Windows eksportować
+Mjeno wužiwarja:
+& Samba server:
+Škitne & hesło:
+Samba server Adobe Windows PostScript- ćěrjaki a CUPS PPD so jako specialna zhromadna resursa [print$] Samba- servera eksportuje (hdyž chceće CUPS- server změnić, wužiwaj Konfiguracija - > CUPS server). Zhromadna resursa [print$] dyrbi eksistować, prjedy hač deleka na eksportować kliknješ.
+Samba- wužiwar Wužiwarjo dyrbja měć prawo pisanja na zhromadnu resursu [print$] na Samba- serveru. W [print$] su ćěrjaki za ćišćaki, přihotowane za Windowsowe ličaki. Dialog njefunguje ze Samba- serverami, konfigurowanymi z security = share (ale funguje derje za security = user).
+Samba- hesło Nastajenje Samba encrypt password = yes (standard) sej najprjedy wuwjedźenje přikaza smbpasswd - a [mjeno wužiwarja] žada za stworjenje šifrowaneho hesła za Samba.
+Stworju zapisk% 1
+Kopěrjuju% 1 na server
+Instaluju ćěrjak za% 1
+Instaluju ćišćak% 1
+Klasy
+Ćěrjak wuspěšnje eksportowany.
+Akcija je so zwrěšćiła. Móžnej přičinje stej dosahace prawa abo njekorektna Samba- konfiguracija (hlej přiručkowu stronu cupsaddsmb dla dalšeje informacije, móžno je, zo trjebaće CUPS - wersiju 1. 1. 11 abo wyšu). Abo spytaj hišće raz z hinašim mjenom wužiwarja a hesłom.
+Akcija přetorhnjena (proces wottřěleny).
+Akcija je so zwrěšćiła!% 1
+Přihotujeće ćěrjak% 1 za zhromadne wužiwanje wot Windowsowych ličakow přez Samba. Tuta operacija sej žada Adobe PostScript Driver,, nowšu wersiju Samba 2. 2. x a běžacy SMB- service na cilowym serveru. Klikńće na Eksportować, zo by akciju započała. Čitajće přiručkowu stronu cupsaddsmb z Konquerorom abo zapodajće man cupsaddsmb w přikazowym woknje, zo by wjace wo tutej funkcionalnosći zhonił.
+Někotre ćěrjakowe dataje faluja. Móžeće je wot Adobe dóstać. Hlej přiručkowu stronu cupsaddsmb dla nadrobnišich informacijow (trjebaće CUPS - wersiju 1. 1. 11 abo nowšu).
+Přihotuju pósłanje ćěrjaka na server% 1
+& Přetorhnyć
+Ćěrjak za ćišćak% 1 njehodźeše so namakać.
+Přihotuju instalaciju ćěrjaka na serveru% 1
+Wubraće IPP- ćišćaku na druhim ličaku
+Dyrbiće ćišćak wubrać!
+Snadź nimaće prawa na resursu pisać.
+Nimaće prawo tutón service startować.
+Pominana akcija so njehodźeše zakónčić
+Server sej% 1 pomina, njesteji pak k dispoziciji.
+Zwisk na CUPS- server je skóncowany. Přepruwuj, zo je CUPS- server korektnje instalowany a zo běži.
+IPP- pominanje je so z njeznatych přičin zwrěšćiło.
+Atribut
+Hódnoty
+Prawje
+Wopak
+& Časowy wobłuk:
+& Wobmjezowanje wulkosće (KB):
+& Wobmjezowanje ličbow stron:
+Wobmjezowanje pomjatka
+Nastajenja wobmjezowanja pomjatka
+Žane wobmjezowanja
+Žane
+IPP- server na druhim ličaku
+zapodajće informaciju wo IPP- serveru na ličaku, na kotrymž běži cilowy ćišćak. Tutón kuzłar budźe so ze serverom do zwiska stajeć, prjedy hač pokročujemy.
+Server:
+Port:
+Mjeno servera faluje.
+Njekorektne portowe čisło!
+Njemóžu so skontaktować z% 1 na porće% 2!
+Chorhoje
+Nastajenje chorhojow
+IPP- rozprawa
+Nutřkowny zmylk: Njemóžu HTML- rozprawu generować.
+Nastajenja přistupa za wužiwarja
+Wužiwarjo
+Wužiwarjo z přistupom
+Wužiwarjo bjez přistupa
+Tu móžeće skupinu wužiwarjow definować, kiž smědźa abo njesmědźa tutón ćišćak wužiwać.
+& Družina:
+Tekst
+Tekstowy format
+Wuzběhowanje syntaksy
+Kromy
+& Pismiki po inchu:
+& Linki po inchu
+Špalty:
+Znjemóžnjene
+Zmóžnjene
+Filter
+Nastajenja CUPS- servera
+Instalaciski zapisk
+Standardowa instalacija (/)
+Dalše opcije za ghostscript
+Mjeno
+Hódnota
+Jenož čitać
+W mjenje njesmědźa być mjezoty:% 1.
+CUPS- server na & druhim computeru (IPP/ HTTP)
+Syćowy ćišćak (IPP/ HTTP)
+Serielny faks/ modemowy ćišćak
+Hinaša & družina ćišćaka
+Klasa ćišćakow
+Zmylk je so stał při dóstawanju lisćiny ćišćakow
+Priorita
+Wotličenska informacija
+Serielny faksowy grat
+Wubjerće grat, na kotryž je waš serielny faks/ modem přizamknjeny.
+Dyrbiće grat wubrać.
+Njemóžach biblioteku libcupsdconf namakać. Přepruwuj instalaciju.
+Njemóžach symbol% 1 w libcupsdconf namakać.
+Ćěrjak & eksportować...
+IPP- rozprawa wo ćišćaku...
+IPP- rozprawa za% 1
+Njemóžach informaciju wo ćišćaku dóstać. Zmylk:
+Server
+IPP- pominanje je so z njeznateje přičiny zwrěšćiło
+Zwisk z CUPS- serverom je skóncowany. Přepruwuj, hač je CUPS- server korektnje instalowany a zo běži. Zmylk:% 1.
+zwisk wotpokazany
+njejsym host namakał
+Njemóžach dataju% 1 čitać
+Zwisk z CUPS- serverom je skóncowany. Přepruwuj, hač je CUPS- server korektnje instalowany a zo běži. Zmylk:% 1.
+HP- GL/ 2- opcije
+Jenož & čorny pisak wužiwać
+& Plot na wulkosć strony připrawić
+Šěrokosć pisaka:
+Informacija wo IPP- ćišćaku
+& URI ćišćaka:
+Pak zapodajće URI ćišćaku direktnje, abo wužiwaj móžnosć, syć přepytować.
+IPP- rozprawa
+Dyrbiće URI ćišćaka zapodać!
+Njemóžach pod tutej adresu a portom žadyn ćišćak namakać! Unknown host - 1 is the IP
+(% 1)
+Mjeno:% 1
+Městno:% 1
+Wopisanje:% 1
+Model:% 1
+lěnjeho pase
+Zastajene
+Wobličuju... Unknown State
+Staw:% 1
+Njemóžu informaciju wot ćišćaka dóstać. Ćišćak wotmołwi:% 1
+Njemóžu rozprawu generować. IPP- pominanje je so zwrěšćiło z powěsću:% 1 (0x% 2).
+URI wubrać
+zapodajće URI ćišćaka, kiž ma so instalować. Na přikład: smb: // [wužiwar [: hesło] @] server/ ćišćak lpd: // server/ rynk parallel: / dev/ lp0
+URI:
+CUPS- server
+Informacija wo serveru
+Informacija wo konće
+& Server
+& Port:
+& Wužiwar:
+& Hesło:
+Konfiguracisku dataju nowa začitać.
+Wužiwaj & anonymiski přistup
+sekundy
+mjeńšiny
+hodźiny
+dny
+tydźenje
+mjesacy
+Nastajenja wobmjezowanja přistupa na ćišćak
+Nastaj tu wobmjezowanja za wužiwanje ćišćaka. Womjezowanja typa 0 rěka, zo so žane wobmjezowanja njewužiwaja. Wobmjezowanja so na zakładźe jenoho šulerja definuja a so potom na wšěch wužiwarjow nałoža.
+Dyrbiće znajmjeńša jedne wobmjezowanje zapodać!
+CUPS- server
+Nastajenja CUPS- servera
+Wužiwarjo bjez přistupa
+Wužiwarjo z přistupom
+Wšitcy wužiwarjo maja přistup
+Wobraz
+Nastajenja barbow
+Wulkosć wobraza
+Pozicija wobraza
+& Swětłosć:
+& Wotsćin (rotacija barbow):
+& Sylnosć barbow:
+& Gamma (připrawjenje barbow):
+& Standardowe nastajenja
+Normalna wulkosć wobraza
+Rozpušćenje (dpi)
+% strony
+% přirodneje wulkosće wobraza
+& Wulkosć wobraza:
+Rozprawa wo ćišćenju
+Njemóžu informaciju wo ćišćenskim nadawku dóstać:
+& IPP- rozprawa...
+& Prioritu zwyšić
+& Prioritu znižić
+Atributy & wobdźěłać...
+Njemóžu prioritu ćišćenskeho nadawka změnić:
+Njemóžu ćišćak% 1 namakać.
+Atributy nadawka% 1 @% 2 (% 3)
+Njemóžu atributy nadawka nastajić:
+Definicija ćišćaka njeje dospołna. Instaluj jón hišće raz.
+Nastajenja LPD- rynka na druhim ličaku
+Rynk:
+Mjeno servera faluje.
+Mjeno rynka faluje.
+Rynk% 1 na druhim ličaku% 2
+Žane predefinowane ćišćaki
+Rynk
+Mjeno ćišćaka faluje.
+Njejsym ćišćak namakał.
+Hišće njeimplementowane.
+Proxy
+Nastajenja RLPR- proxyja
+Nastajenja proxyja
+& Wužiwaj proxy
+Akcija je so zwrěšćiła.
+Njewočakowane skónčenje procesa (% 1).
+% 1: wuwjedźenje je so zwrěšćiło z powěsću:% 2
+Zmylk je so při ćišćenju stał. Zmylkowa powěsć systema% 1
+Někotre z datajow, kiž maja so ćišćeć, njehodźa so wot KDE- demona za ćišćenje čitać. To móže so stać, hdyž spytaće jako hinaši wužiwar ćišćeć. Za ćišćenje trjebaće hesło roota.
+Hesła roota
+Staw ćišćenja -% 1
+Ćišćenski system
+Přizjewjenje je so zwrěšćiło!
+čaka
+zastajene
+přetorhnjene
+přetorhnjene
+zakónčene
+Nastroje za EPSON InkJet
+& Wužiwaj direktny zwisk (móhło sej žadać prawa roota)
+Ćišćak:
+Grat:
+Ćišćensku hłójčku & rjedźić
+& Muster za přepruwowanje ćišćenskeje hłójčki wućišćeć
+Ćišćensku hłójčku & justěrować
+& Staw čornidła
+Identifikacija ćišćaka
+Nutřkowny zmylk: žadyn grat postajeny.
+Njepodpěrowana družina zwiska:% 1
+Dalši escputil hišće běži. Dyrbiće čakać, doniž so njeje zakónčił.
+Program escputil njeje w zapiskach wašeje wariable PATH. Přepruwuj, hač je gimp- print instalowany a zo je escputil w wašim PATH.
+Nutřkowny zmylk: Njemóžu escputil startować.
+Akcija je so ze zmylkami skónčiła.
+Output
+Ćišćak% 1 hižo eksistuje. Pokročowanje přepiše eksistowacy ćišćak. Chceće pokročować?
+Přihotuju konfiguraciski program...
+& Piktogramy, & Lisćina, Štomik
+Ćišćak startować/ zastajić
+Ćišćak & startować
+Ćišćak & zastajić
+Suwanje nadawkow do rynka zmóžnić/ znjemóžnić
+Suwanje nadawkow do rynka zmóžnić
+Suwanje nadawkow do rynka znjemóžnić
+Wotstronić
+Konfiguracija...
+Dodaj & klasu ćišćakow...
+Dodaj & specielny (pseudo) ćišćak...
+Postaj jako & lokalny standard
+Postaj jako standard za & wužiwarja
+Ćišćak & přepruwować...
+Konfiguraciski program & konfigurować...
+Přihotuj konfigurator
+& Wusměrjenje
+& Padorunje, & wodorunje
+Server & znowa startować
+& Server konfigurować.
+& Nastrojowy pas pokazać
+& Nastrojowy pas pokazać
+Pokaž/ Chowaj & nadrobnosći wo ćišćaku
+& Filtrowanje za ćišćak zaswěćić/ hasnyć
+& Přiručka za% 1
+& Domjaca strona% 1
+Nastroje za ćišćak
+Dodaj
+Ćišćenski server
+Organizowanje ćišćenja
+Dokumentacija
+Zmylk je so stał při dóstawanju lisćiny ćišćakow.
+Njemóžu staw ćišćaka% 1 změnić.
+Chceće woprawdźe% 1 zničić?
+Njemóžu specialny ćišćak% 1 zničić.
+Njemóžu ćišćak% 1 zničić.
+% 1 konfigurować
+Njemóžu nastajenja ćišćaka% 1 změnić.
+Njemóžu kmany ćěrjak začitać za ćišćak% 1.
+Njemóžu ćišćak stworić.
+Njemóžu ćišćak% 1 jako standard postajić.
+To wućišći testowu stronu na% 1. Chceće pokročować?
+Testowu stronu ćišćeć
+Testowa strona bu pósłana na ćišćak% 1
+Njemóžu ćišćak% 1 testować.
+Nutřkowny zmylk (bjez zmylkoweje powěsće)
+Zmylkowa powěsć wot organizatora:% 1
+Njemóžu ćišćenski server znowa startować.
+Startuju server znowa...
+Njemóžu ćišćenski server konfigurować.
+Konfiguruju server...
+Njemóžu ćišćakowy nastroj startować. Móžne přičiny su: žadyn ćišćak wubrany, wubrany ćišćak nima lokalny grat (port) definowany, abo nastrojowa biblioteka njehodźeše so namakać.
+Njemóžu lisćinu ćišćakow dóstać.
+Přikazy
+Nastajenja přikazow
+Přikazy wobdźěłać/ stworić
+Přikazowe objekty konwertěruja z inputa na output. Wone bazu tworja kaž za ćišćenske filtry, tak tež za specialne ćišćaki. Wone so wopisuja jako přikazowe słowo, mnóstwo opcijow, mnóstwo wuměnjenjow a asociěrowanych mime- družinow. Tu móžeće nowe přikazowe objekty wutworić a eksistowace modifikować. Wšitke tute změny so jenož na tebje wuskutkuja.
+& Přichodny >
+< Wróćo
+Dodaj ćišćakoweho kuzłarja
+Ćišćak změnić
+Njemóžu pominanu stronu namakać.
+& Zakónčić
+Wubjerće přikaz
+Wubraće lokalneho porta
+Lokalny system
+Paralelny
+Serielny
+USB
+Druzy
+Wubjerće walidny namakany port, abo zapodajće direktnje wotpowědny URI deleka do tekstoweho pólka. The URI is empty
+Lokalnemu URI njewotpowěduje žadyn z namakanych portow. Pokročować?
+Wubjerće walidny port.
+Njemóžu lokalne porty namakać.
+Družina ćišćaka:
+Interfejs
+Nastajenja interfejsa
+IPP- ćišćak
+Lokalny USB- ćišćak
+Lokalny paralelny ćišćak
+Lokalny serielny ćišćak
+Syćowy ćišćak (socket)
+SMB- ćišćaki (Windows)
+Datajowy pseudoćišćak
+Serielny faksowy/ modemowy ćišćakUnknown Protocol
+Wopisanje:
+Model:
+Čłonojo:
+Implicitna klasa
+Klasa na druhim ličaku
+Lokalna klasa
+Ćišćak na druhim ličaku
+Lokalny ćišćak
+Specielny (pseudo) ćišćakUnknown class of printer
+Zestajenje klasy
+Přistupne ćišćaki:
+Klasowe ćišćaki:
+Dyrbiće znajmjeńša jedyn ličak wubrać!
+Mjeno ćišćaka:
+Powšitkowne nastajenja
+& Nastajenja
+Pytaj
+Pytaj w syći:
+Podsyć:% 1
+Chceće w podsyći (% 1. *) pytać, kiž njeje podsyć tutoho computera (% 2. *). Je to prawe?
+Pytaj
+& Podsyć:
+& Kónc čakanja po (ms):
+Pytanska konfiguracija
+Wopačna specifikacija podsyće.
+Wopačna specifikacija čakanskeho časa.
+Wopačna specifikacija porta.
+% 1 konfigurować
+Někotre opcije so znapřećiwjeja. Dyrbiće tute znapřećiwjenja rozrisać, prjedy hač móžeće pokročować.
+Dataju wubrać
+Ćišćenske daty so do dataje sćelu. Podaj tu puć dataje, kiž ma so za to wužiwać. Wužiwaj absolutny puć abo pytanski knefl za grafiski interfejs.
+Do dataje ćišćeć:
+Mjeno dataje faluje.
+Zapisk njeeksistuje!
+Přehladka
+Nastajenje přehladki
+Přehladkowy program
+& Wužiwaj eksterny program za přehladki
+Móžeće eksterny program za přehladki wužiwać město KDE- interny system. Jeli KDE njemóže swój standardowy přehladkowy program (KGhostView) namakać, spyta awtomatisce druhi přehladkowy program za PostScript namakać.
+Test ćišćaka
+Fabrikant:
+Model:
+Wopisanje:
+& Test
+Nětko móžeće ćišćak testować, prjedy hač instalaciju zakónčiš. Wužiwaj knefl Nastajenja, zo by ćěrjak konfigurował a knefl Test, zo by konfiguraciju přepruwował. Wužiwaj knefl Wróćo, zo by hinaši ćěrjak wzał (nětčiša konfiguracija so potom zaćisnje).
+Njemóžu pominany ćěrjak začitać:% 1
+Testowa strona bu wuspěšnje na ćišćak pósłana. Dočakaj, doniž so njeje wućišćała, potom stłóč knefl OK.
+Njemóžu ćišćak přepruwować:
+Njemóžu temporarny ćišćak zničić.
+Njemóžu temporarny ćišćak stworić.
+Njemóžu swójstwa ćišćaka změnić. Zmylkowa powěsć wot organizatora:% 1
+KDE konfiguracija ćišćenja
+Konfiguracija ćišćenskeho servera
+Dodaj ćišćakoweho kuzłarja
+Startuj ćišćakoweho kuzłarja
+Žadyn program definowany za stworjenje datoweje bazy ćěrjakow. Tuta operacija njeje implementowana.
+Program% 1 njesteji w wašim PATHu. Přepruwuj, hač program eksistuje a zo je přistupny přez wariablu PATH.
+Njemóžu započeć z tworjenjom datoweje bazy ćěrjakow.% 1 njehodźeše so startować.
+Prošu dočakaj, doniž njeje KDE datowu bazu ćěrjakow znowa natwarił.
+Datowa baza ćěrjakow
+Zmylk při tworjenju datoweje bazy ćěrjakow: abnormal child process termination!
+Identifikacija wužiwarja
+Tutón ćěrjak móhł sej přizjewjenje a hesło žadać, zo by korektnje dźěłał. zapodajće trěbne podaća abo zmóžni Hóstnemu kontu anonymny přistup wužiwać
+& Mjeno wužiwarja:
+& Hóstne konto
+& Hóstne konto
+Pismo wubrać
+Mjeno wužiwarja faluje!
+Informacija wo syćowym ćišćaku
+Adresa & ćišćaka:
+Port:
+Dyrbiće adresu ćišćaka zapodać!
+Wopačne čisło porta!
+Změnić...
+KDE konfiguracija ćišćenja
+Wubraće ćišćaka
+ćišćak za syre daty
+Nutřkowny zmylk abo njemóžu ćěrjak namakać!
+Žadyn ćišćak
+Wšitke ćišćaki
+Ćišćenske nadawki za% 1
+Bjez wobmjezowanja
+Maks.:% 1
+Identifikator nadawka
+WobsydnikStatus
+Staw
+Wulkosć (KB)
+Strony
+& Zastajić
+& Pokročować
+Wotstronić
+Znowa startować
+Na ćišćak & sunyć...
+Wotbyte nadawki & pokazować/ chować
+Pokaž jenož nadawki wužiwarja
+Mjeno wužiwarja
+Ćišćak & wubrać
+Ponowić
+Wokno přeco pokazować
+Njemóžu akciju "% 1" z wubranymi nadawkami přewjesć. Zmylkowa powěsć organizatora:
+Zastajić
+Pokročować
+Wotstronić
+Znowa startować
+Na% 1 sunyć
+Akcija je so zwrěšćiła.
+Nastajenja nadawkow pokazować
+Interwal mjez aktualizacijomaj
+sek
+Tutón časowy parameter kontroluje čas aktualizacije wšelakich ćišćenskich komponentow KDE kaž organizator ćišćenja a přehladowar nadawkow.
+Testowa strona
+Wosobinsku testowu stronu & specifikować
+Přehladka...
+Pokaž zdźělenski kašćik ze stawom ćišćenja
+& Posledni z tutym programom wužiwany ćišćak jako standard wzać
+Wubrana testowa strona njeje w PostScript- formaće. Testowanje ćišćaka snadź njebudźe móžne.
+Komentar
+Wobkrućenje
+družina
+Městnosć
+Wopisanje
+Čłonojo
+Ćěrjak
+Grat
+IP ćišćaka
+Port
+Server
+Dataja:
+Konto
+URI
+DB- ćěrjak
+eksterny ćěrjak
+Fabrikant
+Model
+Puć k pismam
+Nastajenja pIsma
+Zawjazanje pismow
+Puć k pismam
+& Pisma do PostScript- datow zawjazać při ćišćenju
+& Horje
+& Dele
+Dodaj
+Dalši & zapisk:
+Tuta opcija budźe awtomatisce pisma do PostScript- datajow zawjazać, kiž ćišćak njeznaje. Zawjazanje pismow zwjetša polěpši kwalitu wućišća (wućišć budźe wobrazej na wobrazowce podobniši), ale množi tež ćišćenske daty.
+Při zawjazanju pismow móžeće dalše zapiski podawać, hdźež ma KDE za pismami pytać, kiž maja so zawjazać. Standardnje so pismowy puć X- servera wužiwa, tak zo njetrjebaće tute zapiski zapodać. Standardny pytanski puć zwjetša dosaha.
+Nastajenja SMB- ćišćaka
+Pytaj
+Přetorhnyć
+Dźěłanska skupina:
+Server
+& Mjeno wužiwarja:
+Čłonojo klasy
+Cyła ličba
+Decimalna ličba
+Lisćina
+& Wopisanje:
+& Format:
+Standardowa & hódnota:
+Přikaz:
+& Wusměrjenje
+Hódnoty
+Minimalna hódnota:
+Maksimalna hódnota:
+Hódnotu dodać
+Hódnotu zničić
+Změny přiwzać
+Skupinu dodać
+Opciju dodać
+Element zničiić
+Horje sunyć
+Dele sunyć
+& Input z
+Output na
+Dataja:
+Pipeline:
+Njekorekntna identifikacija. Prózdnoty a "__ root __" njejsu dowolene.
+Nowa skupina
+Nowa opcija
+Přikaz wobdźěłać za% 1
+Nastajenja & MIME- družiny
+Podpěrowane & formaty
+Žadanja
+Přikaz & wobdźěłać...
+Format & outputa:
+mjeno ID:
+wuwjesć: /
+Informacija wo LPD- rynku
+zapodajće informaciju wo LPD- rynku na druhim ličaku. Tutón kuzłar daty přepruwuje, prjedy hač pokročuje.
+Někajka informacija faluje!
+Njemóžu rynk% 1 na serveru% 2 namakać! Chceće přiwšěm pokročować?
+Filter
+Nastajenja ćišćakoweho filtra
+Ćišćakowy filter
+Filter ćišćakow wam dowoli sej jenož wěste ćišćaki wobhladować a nic wšitke. To móže być wužitne, jeli maće jara wjele ćišćakow w swojej syći, ale jenož mało z nich wužiwaš. Wubjerće ćišćaki, kotrež chceće widźeć z lisćiny nalěwo abo zapodajće filter městnow. Wobaj stej kumulatiwnej a so ignorujetej, jeli stej prózdnej.
+Filter městnow:
+Wubraće ćěrjakow
+Za tutón model su so wjacore ćěrjaki namakali. Wubjerće tón ćěrjak, kiž chceće wužiwać. Budźe móžno, jón testować abo tež změnić.
+Informacija wo ćěrjaku
+Dyrbiće ćěrjak wubrać!
+[so doporuča]
+Žana informacija wo wubranym ćěrjaku.
+Zawod
+Witaj! Tutón kuzłar budźe při instalaciji noweho ćišćaka za waš ličak pomhać. Wón budźe was krok po kroku přewodźeć při instalaciji a konfiguraciji ćišćaka za waš ćišćenski system. Z kneflom Wróćo přińdźeće kóždy čas wróćo k předchadnej kročeli Nadźijamy so, zo so na tutym nastroju wjeseliš! Waš KDE printing team
+& PostScriptowy ćišćak
+Ćišćak za & syre daty (bjez ćěrjaka)
+& Druhe...
+& Fabrikant:
+Model:
+Čitam...
+Njemóžu ćěrjak za PostScript namakać.
+Ćišćak & wubrać
+< Njeznaju >
+Datowa baza
+Wopačny format ćěrjaka.
+Druhe
+Nowy přikaz
+Přikaz wobdźěłać
+Wobkrućenje
+& Přelistuj...
+Přikaz & wužiwać:
+Mjeno přikaza
+zapodajće pomjenowanje za nowy přikaz:
+Přikaz z mjenom% 1 hižo eksistuje. Chceće pokročować a jón wobdźěłać?
+Nutřkowny zmylk. XML- ćěrjak za přikaz% 1 njehodźeše so namakać.
+output
+njedefinowany
+njedowoleny
+(Njesteji k dispoziciji: wuměnjenja njespjelnjene)
+Ćišćenski system
+Klasy
+Ćišćaki
+Specialne opcije
+Fabrikant:
+Model ćišćaka:
+Informacija wo ćěrjaku:
+Parametry ćěrjaka
+Nadawki
+Widźomne nadawki
+Maksimalna ličba widźomnych nadawkow:
+Powšitkowna informacija
+zapodajće informaciju wo swojim ćišćaku abo klasy. Mjeno ćišćaka dyrbi so podać, Městnosć a Wopisanje stej opcionalnej.
+Mjeno:
+Dyrbiće znajmjeńša mjeno zapodać!
+Zwjetša njeje derje, hdyž mjeno ćišćaka mjezoty wobsahuje. To móže korektnemu dźěłanju ćišćaka zadźěwać. Kuzłar móže wšě mjezoty zwumjetać, mjeno ćišćaka by potom było% 1. Što ma so stać?
+Mjezoty zwumjetać
+Zdźeržeć
+Ćěrjak wubrać
+Dyrbiće ćěrjak wubrać!
+& Lokalny ćišćak (paralelny, serielny, USB)
+& Zhromadny SMB- ćišćak (Windows)
+LPD- rynk na druhim ličaku
+& Syćowy ličak (TCP)
+Tu definujeće abo editujeće instancy za aktualnje wubrany ćišćak. Instanca je kombinacija realneho (fyzikalisce) ćišćaka a mnóstwo predefinowanych opcijow. Za samsny InkJet móhł na př. wšelake wašnja ćišćenja definować kaž Naćisk, Foto abo Dwustronsce. Tute instancy so jewja w ćišćenskim dialogu kaž separatne ćišćaki a wam dowola, spěšnje ćišćenske opcije wubrać.
+Nowy...
+Kopěrować...
+Jako standard postajić
+& Nastajenja
+Test...
+(standard)
+Mjeno instancy
+zapodajće mjeno noweje instancy (wostaj za standard):
+Mjeno instancy njesmě mjezoty wobsahować!
+Chceće woprawdźe instancu% 1 zničić?
+Zničić standardowu instancu njemóžeće. Ale wšitke nastajenja wot% 1 so zaćisnu. Pokročować?
+Njemóžu ćišćak% 1 namakać.
+Njemóžach informaciju wo ćišćaku dóstać. Zmylk:
+Žana standardna resursa! Prošu wubrać.
+Nutřkowny zmylk: Njemóžach ćišćak namakać.
+Njemóžu testowu stronu na% 1 pósłać.
+Swójstwa
+Instancy
+Specialny ćišćak dodać
+& Městno:
+Nastajenja & přikaza
+Dataja za & output:
+Dataja za & output:
+kmana ekstensija
+Přikaz budźe dataju za output wužiwać. Jeli to wubjerješ, přepruwuj, hač ma přikaz tež parameter za output.
+Přikaz, kiž ma so wuwjesć, hdyž so z tutym specialnym ćišćakom ćišći. Pak zapodajće přikaz direktnje, abo zwjazajće přikaz z tutym specialnym ćišćakom. Přikazowy objekt je preferowana metoda, kiž podpěruje dalše móžnosće kaž přepruwowanje MIMI- družin, konfiguraciju opcijow a lisćiny wuměnjenjow (direktny přikaz tu jenož hišće z přičin kompatibelnosće tu je). Za direktny přikaz so sćěhowace opcije spóznaja% in: inputowa dataja (trěbne)% out: outputowa dataja (do kotrejež ma so pisać; trěbne, hdyž so do dataje ćišći)% psl: wulkosć papjery (w małopisanju)% psu: wulkosć papjery (prěni pismik wulki)
+Standardowa ekstensija za outputowu dataju (na př: ps, pdf, ps. gz)
+Standardowa ekstensija za outputowu dataju (na př: ps, pdf, ps. gz)
+Dyrbiće mjeno zapodać.
+Njekorektne nastajenja.% 1
+Konfiguruju% 1
+puć
+Filter dodać
+Filter wotstronić
+Dataju wočinić
+Sćehń dataje sem abo wužiwaj knefl, zo by datajowy dialog wočinić. Wostaj prózdny za lt; STDINgt;.
+Připrawjenja
+Wužiwany ćišćenski system:
+Informacija wo & wotličenju:
+Initializacija...
+Generuju daty za ćišćenje: strona% 1
+Pokazuju...
+Žadyn walidny ćišćenski program we wašim puću. Přepruwujće instalaciju.
+To njeje Foomaticowy ćišćak.
+Dźěl informacije wo ćišćaku faluje.
+Tuta operacija njeje implementowana.
+Njemóžu testowu stronu namakać.
+Njemóžu standardowy ćišćak z nastajenjemi wosebiteho ćišćaka přepisać.
+Paralelny port čo.% 1
+Njemóžu KDE- biblioteku za ćišćenje začitać:% 1
+Njenamakam wizard object w bibliotece.
+Njenamakam dialog opcijow w bibliotece.
+Žana informacija wo tutym pluginje.
+Žane wopisanje
+Ćišćenski rynk na% 1
+W wašim lokalnym KDE- zapisku je dataja share/ kdeprint/ specials. desktop. Tuta dataja je najskerje wot prjedawšeje instalacije wyše wostała a měła so zničić, zo by móhł globalne pseudoćišćaki konfigurować.
+Njemóžu wjacore dataje do jedneje kopěrować.
+Njemóžu ćišćensku dataju w% 1 zawěsćić. Přepruwujće, hač směće tam pisać.
+Ćišću dokument:% 1
+Sćelu ćišćakej daty:% 1
+Njemóžu ćišćenski proces startować.
+Ćišćenski server KDE (kdeprintd) njewotmołwi. Přepruwuj hač běži. 1 is the command that < files > is given to
+Přepruwuj syntaksu přikaza:% 1 < dataje >
+Njejsym žanu dataju namakał za ćišćenje. Akcija přetorhnjena.
+Njemóžu pominane strony wubrać. Filter psselect njemóže so do rjećaza filtrow zasunyć. Hlej pod Filter w dialogu wo swójstwach ćišćaka.
+Nimaće prawa startować% 1.
+Zmylk při čitanju wopisanja filtra za% 1. Sym prózdnu přikazowu linku dóstał.
+MIME- družina% 1 so njepodpěruje jako input do rjećaza filtrow (to so druhdy stawa z hinašimi spoolerami hač CUPS, hdyž do stronu wuběraja za nje- PS- dataje). Ma KDE dataju na podpěrowany format konwertěrować? < / p
+Konwertěrować
+Wubjerće MIME- družinu
+Wubjerće cilowy format konwertěrowanja:
+Akcija přetorhnjena.
+Njejsym žadyn kmany filter namakał. Wubjerće hinaši cilowy format.
+Akcija je so zwrěšćiła z powěsću:% 1 < br > Wubjerće hinaši cilowy format
+Filtruju ćišćenske daty
+Zmylk při filtrowanju. Přikaz běše:% 1.
+Datajowy format% 1 so wot wužiwaneho ćišćenskeho systema direktnje njepodpěruje. KDE móže spytać, tutu dataju awtomatisce na podpěrowany format konwertěrować. Ale móžeće tež spytać, dataju njekonwertěrowanu na ćišćak pósłać. Chceće, zo KDE tutu dataju na% 2 konwertěruje?
+ISO A4
+Folio
+US # 10 Wobalka
+ISO DL wobalka
+Tabloid
+ISO A4
+ISO A4
+ISO A4
+ISO A4
+Horni fašk
+Delni fašk
+Wjacezaměrowy fašk
+Wulki fašk
+normalnje
+transparentnosć
+& Wulkosć strony:
+Družina & papjery:
+Žórło papjery:
+& Wusměrjenje
+Dwustronske ćišćenje
+Kelko stron na łopjeno
+Po & wysokosći
+Po šěrokosći
+& Wobroćene po šěrokosći
+Wobroćene po wysokosćiduplex orientation
+& Žanaduplex orientation
+po & dołhim bokuduplex orientation
+po & krótkim boku
+Prěnja strona:
+Poslednja strona:
+Hódnota:
+Hódnota stringa:
+Žana opcija wubrana
+Konfiguracija% 1
+(wokpokazuje nadawki)
+(přijimuje nadawki)
+& Dataje
+& PageMarks
+& Kopije
+Wubraće stronow
+& Wšitke
+Aktualnu
+Wuběrk
+zapodajće strony, přez komy dźělene (na př. 1, 2- 5, 8).
+Nastajenja outputoweje dataje
+Zestajeć:
+Wotzady
+Kopije
+Wšitke strony
+Njerune strony
+Rune strony
+& Wuběrk stronow:
+Strony
+Chceće přiwšěm dale ćišćeć?
+Přehladku ćišćeć
+přetorhnjene
+Přehladkowy program% 1 njehodźi so namakać. Přepruwujće, hač je program korektnje instalowany a zo je w zapisku, kiž wobsahuje wokolinowa wariabla PATH.
+Přehladka njeje móžna: ani interny KDE- PostScript- pokazowar (KGhostView) ani druhi eksterny PostScript- pokazowar njehodźeše so namakać.
+Přehladka njeje móžna: Njemóžu program% 1 startować.
+Chceće dale ćišćeć?
+Zmylk při začitanju% 1. Powěsć bě:% 2
+Konflikt mjez opcijemi. Tutón konflikt dyrbi so rozrisać, prjedy hač móže so dale ćišćeć. Hlej Pokročene opcije dla nadrobneje informacije.
+Posterowa přehladka njeje móžna: Pak program poster njeje korektnje instalowany, pak nimaće trěbnu wersiu, kiž móžeće dóstać wot http: // printing. kde. org/ downloads /.
+Konfiguracija ćišćaka
+Tutón ćišćak njehodźi so konfigurować!
+Žana přehladka móžna.
+& Dataje
+Wužiwaj & konfigurowane kromy
+& Horjeka:
+& Deleka:
+& Lěwy:
+Prawy:
+Inches (in)
+centimetry (cm)
+milimetry (mm)
+Poster
+& Poster ćišćeć
+& Wulkosć postra:
+Wulkosć papjery:
+Wulkosć wućišća:
+Kromu wottřihać (% papjery):
+& Titlowe strony:
+Wulkosć postera a papjery zwjazać/ wotwjazać
+Přikazowy objekt trjeba hišće něšto.
+Přikaz njewobsahuje trěbne '% 1'.
+& Eksportować...
+Filtry
+Filter dodać
+Filter wotstronić
+Filter horje sunyć
+Filter dele sunyć
+Filter konfigurować
+Nutřkowny zmylk: Njemóžu filter začitać.
+Filtrowy rjećaz njeje korektny. Format outputa znajmjeńša jednoho filtra so wot přichodneho filtra njepodpěruje. Klikni na Filtry dla dalšeje informacije.
+Input
+Ćišćenski format
+Barbowy modus
+Barbny
+Šěrokosće
+Druhe & opcije
+Faksowy system:
+Přikaz:
+& Faksowy serwer (jeli móžno):
+& Faksowy/ Modemowy nastroj:
+Standardne modemowe přizamknjenje
+Faks sćele so na% 1 (% 2)
+Faks sćele so na% 1...
+% 1 sym přeskočił...
+% 1 filtruju...
+Njemóžu dataju k pisanju wočinić
+A4
+& Rozpušćenje:
+& Wulkosć papjery:
+& Mjeno:
+& Firma:
+& Čisło:
+Mjezynarodny prefiks '+' narunać z:
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Ćišćenski zmylk
+Ćišćenski pomocnik za KDE
+Internu kopiju datajow stworić, kiž maja so ćišćeć
+Ćišćak/ cil na kotryž ma so ćišćeć
+Titl/ Mjeno ćišćenskeho nadawka
+Ličba kopijow
+Opcije za ćišćak
+Modus outputa (gui, terminal, žadyn)
+Ćišćenski system (lpd, cups)
+Ćišćenje wot STDIN dowolić
+Njepokaž ćišćenski dialog (hnydom ćišćeć)
+Dataje za začitanje
+Informacija wo ćišćenju
+Ćišćenske warnowanje
+Ćišćenski zmylk
+Ćišćenska informacija
+Ćišćenske warnowanje
+Ćišćenski zmylk
+Na komandowej lince bu dataja specifikowana. Ćišćenje ze STDIN so znjemóžni.
+Hdyž so wužiwa '-- nodialog', dyrbiće znajmjeńša jednu dataju za ćišćenje zapodać abo '-- stdin' wužiwać.
+Njemóžach pominany ćišćak abo standardny ćišćak namakać.
+Akcija přetorhnjena.
+Njemóžach ćišćenski dialog nastajić.
+Wjacore dataje (% 1)
+Njemóžach temporarnu dataju wočinić.
+STDIN je prózdny, žadyn ćišćenski nadawk.
+Njemóžach dataju% 1 kopěrować.
+Zmylk při ćišćenju datajow
+Aplikacija za KDE dźěłowy powjerch, panele a widgety.
+Plasma rum
+Copyright 2006- 2008, KDE skupina
+Aaron J. Seigo
+Awtor a zastaraćel
+Registruje aplikaciju jako primarny interfejs wužiwarja
+Geometrija wobrazowkiNAME OF TRANSLATORS
+Edward WornarEMAIL OF TRANSLATORS
+edi. werner@ gmx. de
+Awtor
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+GenericName
+Name
+GenericName
+Name
+Name
+Comment
+Name
+Comment
+Name
+PluginyComment
+Name
+Comment
+Name
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Comment
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+GenericName
+Name
+Comment
+GenericName
+Name
+GuatemalaGenericName
+Name
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+GenericName
+Name
+Description
+Name
+Description
+Name
+Comment
+Comment
+Comment
+Comment
+Name
+Name
+SignaturaName
+GenericName
+Name
+GenericName
+HraName
+StandardDescription
+Name
+GenericName
+Name
+Comment
+GenericName
+Name
+GenericName
+Name
+GenericName
+Comment
+Name
+GenericName
+Description
+Description
+Name
+Description
+Name
+Comment
+Name
+Name
+Comment
+Name
+Comment
+Name
+Description
+Name
+GenericName
+Name
+Name
+Comment
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Description
+KCharselect unicode block name
+Geometriske formyDescription
+Name
+GenericName
+Comment
+Name
+GenericName
+Comment
+Name
+GenericName
+Description
+default spelling dictionary
+Standard -% 1Description
+Name
+Standard - módryDescription
+default spelling dictionary
+Standard -% 1Description
+Standard -% 1Name
+& Dataja
+Wočinić
+Zawěsćić jako
+& Hra
+& Přehladka
+Hłowny nastrojowy pas
+Přetorhnyć
+...
+OK
+Nastajenja
+Mjezynarodny
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Comment
+Nastajenja za pisma
+Generelnje
+informacija
+Operacija
+@ note- with- label/ plain% 1 is the note label,% 2 is the text
+% 1:% 2
+Wotkazuje na:
+Pokročować
+Hesło:
+R means resume
+U means unlimited
+If the format of the (U) and (R) strings is changed, it should also be changed here
+Zmylk při zwjazanju ze serverom.
+Zmylk při čitanju z PTYSocket error code RemotelyDisconnected
+dalny serwer je zwisk zakónčił
+Syćowy nastroj
+Wróćo
+Přiwzać
+Wotpokazać
+Status
+Client
+emailabbreviate blind
+abbreviate away
+abbreviate ready
+Aktualizowanje
+& Pokročować
+& Přiwzać
+& Wotpokazać
+Awtor
+& Hra
+Pomoc
+Hłowny nastrojowy pas
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+& Dataja
+Hłowny nastrojowy pas
+Zjeće:
+Městno: NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+& Dataja
+Hłowny nastrojowy pasNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+% 1 is the nick,% 2 is the message
+% 1 is the nick,% 2 is the message
+Spectators not allowed
+Komentar
+& Wotpokazać
+& Přiwzać
+% 1 represents the error message
+Mjeno
+Zmylk
+Status
+Hotowo
+Mjeno:
+& Rěč:
+Komentar:
+Přetorhnyć
+OK
+Zmylk při zwjazanju ze serverom.
+1
+2
+& OK
+& Přetorhnyć
+ZačinićNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Domjaca strona KDE
+& NastajenjaNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+StołpikiName
+Rocks n Diamonds
+Znowa startowaćkeyboard- key- name
+Spacij/ Mjezota
+Zmylk
+Přiwzać
+in
+Prašenje
+Wróćo
+Na:
+Tishrey
+Formular
+Dataja
+Name
+Šwedskakeyboard- key- name
+Naprawo
+LinkaTuesday
+Wuconcatenation of dates and time
+% 1% 2Name
+Zapisk
+Wotmołwa:% 1@ action
+Pomoc
+Kóstkowe hry
+Chceće woprawdźe '% 1' startować?
+GenericName
+Špalta čo.% 1
+% 1% z% 2
+Wo% 1
+@ item font size
+Sweep
+Hłownewokno
+Konsola
+Generelnje
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Započeć
+Pokročować
+Kónc
+Hotowo
+Žane
+Nastajenja
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Njeznaty napohlad
+& Předchadna strona
+Přichodna strona
+Horjekeyboard- key- name
+Delekeyboard- key- name
+Nalěwokeyboard- key- name
+Naprawo
+Zawěsćić@ action
+Barba tekstaName
+Wo słowo dozady
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Name
+Barby
+& DatajaNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Hłownewokno
+Dodać
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+DirectShow9Comment
+Phonon DirectShow9 backendName
+GStreamerComment
+Phonon GStreamer backendGenericName
+Testowa aplikacija za widejo- captureName
+videocapturetestappName
+WudawanyComment
+Testowanje backendaName
+XineComment
+Phonon Xine backend
+keyboard- key- name
+Druck
+Ćišćeć
+Strona začitana.
+Stop
+Pismo wubrać
+Stary staw
+Opcija
+Sćěhować
+Hotowo.
+Ćišćeć
+Mjeno
+akcija1
+Ćišćowa přehladkakeyboard- key- name
+Hyper
+Wubrać...
+StronuHorje
+Strony
+keyboard- key- name
+Naprawo
+Port
+EscapeQPrintPreviewDialog
+Escape
+Wróćo
+& Znowa činić
+Wutřihać
+& Kopěrować
+Městno wotkaza kopěrować
+& Zasunyć
+WumazaćQSql
+Select AllQUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+QUnicodeControlCharacterMenu
+Dalša informacija:% 1
+normal severity
+Normalny@ item font
+tučne@ item font
+tučne
+WróćoDei short
+Deikeyboard- key- name
+Naprawo@ item font
+kursiwne@ action underline selected text
+nakosneQFontDatabase
+akcija1@ item Text character set
+Grjekske@ item Text character set
+KyriliskeKCharselect unicode block name
+armenšćina@ item Calendar system
+hebrejsce@ item Text character set
+ArabskeKCharselect unicode block name
+SyrišćinaKCharselect unicode block name
+ThaanaKCharselect unicode block name
+DevanagariKCharselect unicode block name
+BengaliKCharselect unicode block name
+GurmukhiKCharselect unicode block name
+GujaratiKCharselect unicode block name
+OriyaKCharselect unicode block name
+TamilKCharselect unicode block name
+TeluguKCharselect unicode block name
+KannadaKCharselect unicode block name
+MalayalamKCharselect unicode block name
+Sinhala@ item Text character set
+TailandskeKCharselect unicode block name
+LaošćinaKCharselect unicode block name
+TibetšćinaKCharselect unicode block name
+MyanmarKCharselect unicode block name
+georgišćinaKCharselect unicode block name
+KhmerQFontDatabase
+QFontDatabase
+@ item Text character set
+Japanske@ item Text character set
+KoreanskeQFontDatabase
+KCharSelect section name
+SymboleKCharselect unicode block name
+OghamKCharselect unicode block name
+rězy
+Ně
+Wróćo
+Znowa činićkeyboard- key- name
+Pos1Banner page at end
+Nadrobnosće
+Nadrobnosće
+& OK@ action
+Pomoc
+Wo% 1
+Ćišćeć
+Mjeno
+Dataja
+Wróćo
+& Wróćo
+PokročowaćOpposite to Previous
+PřichodneOpposite to Previous
+Přichodne
+Komentar
+Hotowo.
+Zakónčić
+Přetorhnyć
+& Pomoc
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+KDE
+Wuwjesć
+Sćěhować
+KCharselect unicode block name
+Bengali@ label center justify
+Centrować
+@ item license
+Konfigurowane
+Wumazać
+Strony na łopjeno
+Ćišćeć
+Što & to je?
+% 1 TiB
+% 1 GiB
+% 1 MiB
+% 1 KiB
+% 2 (% 1 bytes)
+njekorektne opcije
+Wulkosć
+Pytaćkeyboard- key- name
+Hyper
+Posledni raz změnjene
+Tag% 1 hižo eksistuje
+Pismo wubrać
+Pismo wubrać@ action
+& PIsmo@ option: check
+Stil pisma@ option: check
+Wulkosć
+@ action
+Přešmórnjene@ action underline selected text
+& Podšmórnjene
+zastajene
+keyboard- key- name
+F% 1
+Ćišćowa přehladka
+Přichodna strona
+& Předchadna strona
+& Prěnja strona
+& Poslednja strona@ action
+Na šěrokosć strony připrawić
+& Prěnja strona@ action
+Powjetšić@ action
+Pomjeńšić
+QPrintPreviewDialog
+QPrintPreviewDialog
+StronyQPrintPreviewDialog
+QPrintPreviewDialog
+Pseudonymy: unknown program name
+njeznaju
+Compiler:
+% 2 (% 1 bytes)
+DatajaTuesday
+WuQFileDialog
+Chowaj% 1
+DatajaMatch Windows Explorer
+Pseudonymy: All other platforms
+njeznate
+Přichodny tabulator aktiwizować
+QSoftKeyManager
+& Wubrane:
+keyboard- key- name
+Spacij/ Mjezotakeyboard- key- name
+Esckeyboard- key- name
+Tab
+Wróćo
+Backspacekeyboard- key- name
+Return
+Zapodaćkeyboard- key- name
+Einfgkeyboard- key- name
+Entf
+Pause/ Untbr
+SysReqkeyboard- key- name
+Kónckeyboard- key- name
+Nalěwokeyboard- key- name
+Horjekeyboard- key- name
+Naprawokeyboard- key- name
+Delekeyboard- key- name
+StronuHorjekeyboard- key- name
+StronuDele
+CapsLock
+NumLock
+ScrollLockkeyboard- key- name
+Meni
+Wróćo
+Doprědka
+Stop
+Wotkaz
+& Dele sunyćQShortcut
+QShortcut
+QShortcut
+DelePhonon:: MMF:: EffectFactory
+Zakadny URLkeyboard- key- name
+DeleQShortcut
+QShortcut
+Nadrobnosće
+& Wobraz aktualizowaćQShortcut
+Předchadny namakać
+Dale pytaćQShortcut
+Domjaca stronaQShortcut
+QShortcut
+Pytać
+Standard
+Wočinić
+Startuju% 1QShortcut
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1
+Startuju% 1QShortcut
+QShortcut
+QShortcut
+QShortcut
+QShortcut
+QShortcut
+StronuHorje
+WuwjesćQShortcut
+QShortcut
+QShortcut
+keyboard- key- name
+Naprawo
+StopQShortcut
+QShortcut
+Adresu & wotkaza kopěrowaćQShortcut
+Přetorhnyć
+KomentarQShortcut
+DoprědkaQShortcut
+QShortcut
+toolbar position string
+DelekaQShortcut
+QShortcut
+@ action
+Wuprózdnić
+Wuprózdnić@ action
+Začinić
+Kopěrować
+Wutřihać
+QShortcut
+QShortcut
+QShortcut
+QShortcut
+& HraQShortcut
+QShortcut
+QShortcut
+keyboard- key- name
+Meta
+Pismo wubraćQShortcut
+keyboard- key- name
+MeniQShortcut
+QShortcut
+Domjaca strona
+Opcija
+ZasunyćNo Guesses Found context menu item
+Hotowo.
+Wužij
+Znowa začitać
+akcija1
+akcija1@ action
+Zawěsćić
+QShortcut
+keyboard- key- name
+DruckQShortcut
+QShortcut
+KCharselect unicode block name
+TamilQShortcut
+Tuesday
+Wu
+& Napohlad
+QShortcut
+@ action
+Powjetšić@ action
+PomjeńšićQShortcut
+QShortcut
+QShortcut
+Doprědka
+StronyQShortcut
+CentrowaćQShortcut
+StronyQShortcut
+DoprědkaQShortcut
+QShortcut
+WotpósłaćQShortcut
+QShortcut
+& Napohlad
+MeniQShortcut
+QShortcut
+keyboard- key- name
+Druck
+StronuHorje
+StronuDele
+CapsLock
+NumLock
+NumLock
+ScrollLock
+Zasunyć
+Escape
+Systemowe pismo
+Haj
+Ně
+Žadyn tekst
+Žadyn tekst
+Žadyn tekst
+Žadyn tekst
+ZwołaćKCharselect unicode block name
+HanunooQShortcut
+keyboard- key- name
+Strgkeyboard- key- name
+Wulkopisanjekeyboard- key- name
+Altkeyboard- key- name
+Metaaddition
++keyboard- key- name
+F% 1Translate this string to the string 'LTR' in left- to- right languages or to 'RTL' in right- to- left languages (such as Hebrew and Arabic) to get proper widget layout.
+dopołdnja
+popołdnju
+ScrollLockkeyboard- key- name
+Nalěwotoolbar position string
+Horjekakeyboard- key- name
+Naprawotoolbar position string
+Deleka
+Strona začitana.
+StronuHorje
+Strony na łopjeno
+StronuDele
+ScrollLock
+ScrollLock
+ScrollLock
+ScrollLockQWebPage
+Začinić
+& OK
+Zawěsćić@ action
+Wočinić
+& Přetorhnyć
+& Začinić
+Wužij
+Stary staw
+& NjezawěsćićQDialogButtonBox
+& Zaćisnyć
+& Haj
+& Wšitko wubrać
+& Ně
+nic dowolić
+Zawěsćić jako
+& Přetorhnyćkeyboard- key- name
+Return
+ignorować@ action
+Standardne hódnoty nastajić
+akcija1
+Bjez titla@ action
+Wšitko wubrać
+& Step
+Step Into
+Minimalizować
+& Dele sunyć
+@ title: menu Game move
+& Sunyć
+Minimalizować
+Minimalizować
+Shanbedictionary name.% 1- language and% 2- variant name
+% 1 [% 2]
+dictionary name.% 1- language and% 2- variant name
+% 1 [% 2]
+Minimalizować
+Shahrivar short
+Sha
+Znowa startowaćkeyboard- key- name
+& Zastajić při přichodnym statemenće
+Njemóžu temporarnu dataju wočinić.
+Njemóžach layout stworić.
+QODBCResult
+QODBCResult
+Komponentu spřistupnić
+QIBaseDriver
+QMYSQLResult
+& Zastajić při přichodnym statemenće
+Parametry miniprograma
+& Zastajić při přichodnym statemenće
+Komponentu spřistupnić
+Njemóžu temporarnu dataju wočinić.
+& Zastajić při přichodnym statemenće
+Njemóžu temporarnu dataju wočinić.
+Njemóžu temporarnu dataju wočinić.
+Komponentu spřistupnić
+QSQLite2Result
+Komponentu spřistupnić
+Njemóžu temporarnu dataju wočinić. QODBCResult
+QODBCResult
+QODBCResult
+Njemóžach layout stworić. QPSQLResult
+Njemóžach hódnotu stworić.
+Njemóžach layout stworić. QIBaseResult
+Njemóžu temporarnu dataju wočinić. QIBaseResult
+Njemóžach service '% 1' namakać
+Njemóžach temporarnu dataju stworić.
+Njemóžach temporarnu dataju stworić.
+Njemóžach hódnotu stworić. QIBaseDriver
+Njemóžach temporarnu dataju stworić.
+Njemóžach temporarnu dataju stworić. QIBaseResult
+Njemóžach temporarnu dataju stworić.
+Njemóžu temporarnu dataju wočinić. QIBaseResult
+QMYSQLResult
+Njemóžach pomocny centrum startować
+Njemóžach temporarnu dataju stworić. QIBaseDriver
+Zmylk při wuběranju GSM- dataje: QSQLiteResult
+QMYSQLResult
+QMYSQLResult
+QMYSQLResult
+QMYSQLResult
+& Zastajić při přichodnym statemenće
+QMYSQLResult
+Njemóžu temporarnu dataju wočinić.
+QSQLiteResult
+Parametry miniprogramaQSQLiteResult
+žadyn zmylkQRegExp
+QXml
+QXml
+Zmylk je so stał při čitanju% 1: QXml
+Zmylk je so stał při čitanju% 1:
+Přichodny pismikQXml
+QXml
+QXml
+QXml
+QXml
+QXml
+QXml
+Zmylk je so stał při čitanju% 1:
+Zmylk je so stał při čitanju% 1: QXml
+QXml
+QXml
+QXml
+QXml
+QXml
+Njemóžach dataju '% 1' wočinić.
+Socket error code Timeout
+operacijan z časowym wobmjezowanjom předołho traje
+Zmylk při čitanju z PTY
+Zmylk při pisanju do PTY
+Njeznaty zmylkDear Translator! Translate this string to the string 'LTR' in left- to- right languages (as English) or to 'RTL' in right- to- left languages (such as Hebrew and Arabic) to get proper widget layout.
+Njemóžu dataju% 1 čitać
+Njewalidn certifikat!
+Njewalidn certifikat!
+Njepodpěrana tasta
+'% 1' njeje walidny QWidget. Socket error code NotSupported
+operacija so njepodpěruje
+Začiń aktualne wokno abo dokument
+Njekorektny serwer
+Wuwjesć
+Njewočakowany argument '% 1'.
+QRegExp
+QRegExp
+QRegExp
+njekorektne opcijeQRegExp
+dictionary variant
+rošěrjeneQRegExp
+njekorektne opcijeQRegExp
+Njewalidn certifikat! QIODevice
+Njeje dowolene. Socket error code ConnectionTimedOut
+Njemóžach dataju '% 1' wočinić.
+Žadyn tajki interpreter:% 1QIODevice
+Tag% 1 hižo eksistuje
+Dataja% 1 njeeksistuje
+njekorektne opcije
+QSystemSemaphore
+njeznaty zmylk
+Družinowy zmylk
+Dataja% 1 njeeksistujeQSystemSemaphore
+Dataja% 1 njeeksistujeQSystemSemaphore
+% 1 dataja
+Dataja% 1 njeeksistuje
+Njemóžach dataju '% 1' wočinić:% 2
+Njemóžach dataju '% 1' wočinić:% 2
+Biblioteka '% 1' njeposkića funkciju '% 2'.
+'% 1' njeje walidny QLayout.
+Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Nowy zapis njehodźeše so dodać.
+Zmylk při wočinjenju PTY
+Njeznaty zmylk
+Zmylk při wočinjenju PTY Socket error code ConnectionTimedOut
+sym předołho na zwisk čakał
+'% 1' njeje walidny QLayout.
+Njemóžach% 1 hódnotow z typa% 2 konwertěrować (% 3)
+Njemóžach% 1 hódnotow z typa% 2 konwertěrować (% 3)
+Modul% 1 je blokowany.
+Pismo za menije
+'% 1' njeje walidny QWidget.
+Wulko - a & małopisanje wobkedźbować
+Njekorektny prawidłowny wuraz
+@ item: intext days and hours. This uses the previous item: intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
+% 1 a% 2
+'% 1' njeje walidny QLayout.
+Wudawany user- agent '% 1' so wužiwa.
+% 1 - njeznata družina
+'% 1' njeje walidny QLayout.
+Socket error code NotSupported
+operacija so njepodpěruje
+'% 1' njeje walidny QWidget.
+Biblioteka '% 1' njeposkića funkciju '% 2'.
+'% 1' njeje walidny QLayout.
+'% 1' njeje walidny QWidget.
+Njekorektny serwer
+% 1 a% 2
+Wudawany user- agent '% 1' so wužiwa.
+'% 1' njeje walidny QLayout.
+Njekorektny prawidłowny wuraz
+Tag% 1 hižo eksistuje
+Aktualizowanje
+Wšě zničić
+Daty zawěsćić
+WobkrućićQSql
+@ action
+& Standardy
+Dwuzmyslna kombinacija namakana
+Linka
+& Konfigurowane
+Wubrać...
+Zmylk při začitanju '% 1'.
+Zmylk při začitanju% 1
+Zmylk při přemjenowanju.
+Nowe
+Biblioteka '% 1' njeposkića funkciju '% 2'.
+Njemóžu dataju% 1 čitać
+Zmylk při začitanju% 1
+Zmylk při začitanju% 1Socket error code NotSupported
+operacija so njepodpěruje
+Njekorektny CA
+Protokol:% 1
+OpcionalnjeQNetworkAccessFileBackend
+Njemóžu dataju% 1 čitać
+Zmylk při wočinjenju PTY
+Zmylk při pisanju do PTY
+Socket error code RemotelyDisconnected
+dalny serwer je zwisk zakónčił
+Zmylk při wočinjenju PTY QNetworkReply
+Zmylk při čitanju z PTYSocket error code Timeout
+njekorektne opcije
+Socket error code NotBound
+socket njeje wjazany
+Socket error code ConnectionRefused
+zwisk je so aktiwnje wotpokazał
+Socket error code NotBound
+socket njeje wjazanySocket error code ConnectionTimedOut
+sym předołho na zwisk čakał
+Socket error code ConnectionRefused
+zwisk je so aktiwnje wotpokazał
+pominana družina socketa so njepodpěruje
+Socket error code Timeout
+operacijan z časowym wobmjezowanjom předołho trajeQNativeSocketEngine
+operacija so njepodpěruje
+Njemóžu temporarnu dataju wočinić.
+Njemóžu temporarnu dataju wočinić.
+Socket error code RemotelyDisconnected
+dalny serwer je zwisk zakónčiłSocket error code Timeout
+Njepodpěrana tasta
+pominana družina socketa so njepodpěruje
+Njekorektny zaměr
+sym předołho na zwisk čakałSocket error code ConnectionRefused
+adresa so hižo wužiwa
+Žadyn wotpowědowacy element.
+Žadyn wotpowědowacy element.
+Njemóžu temporarnu dataju wočinić.
+& Zastajić při přichodnym statemenće
+Njemóžu temporarnu dataju wočinić.
+Nowe
+Socket error code WouldBlock
+operacija by blokowała
+Socket error code Timeout
+operacijan z časowym wobmjezowanjom předołho trajeSocket error code NotBound
+socket njeje wjazany
+Linka
+Zasunyćkeyboard- key- name
+Wulkopisanje
+Step Intokeyboard- key- name
+F% 1
+keyboard- key- name
+F% 1
+& Stepkeyboard- key- name
+Wulkopisanje
+keyboard- key- name
+Strg
+keyboard- key- name
+StrgOpposite to Previous
+Přichodne
+Předchadny namakaćkeyboard- key- name
+Wulkopisanjekeyboard- key- name
+Strg
+& Předchadna stronaOpposite to Previous
+Přichodne
+QScriptBreakpointsModel
+akcija1
+Komunikaciski zmylk
+ignorowaćQScriptBreakpointsModel
+QScriptBreakpointsModel
+Wróćo
+@ action
+Začinić
+KCharselect unicode block name
+Bengali
+% 1 dataja
+Zmylk při wočinjenju PTY
+Zmylk při wočinjenju PTY
+Phonon:: MMF
+pominana družina socketa so njepodpěruje
+Phonon:: MMF:: EffectFactory
+keyboard- key- name
+Phonon:: MMF:: EffectFactory
+TestyPhonon:: MMF:: EffectFactory
+Phonon:: MMF:: EffectFactory
+socket njeje wjazany
+pominana družina socketa so njepodpěruje
+@ action underline selected text
+& Podšmórnjene
+Tag% 1 hižo eksistujeSocket error code NotBound
+socket njeje wjazany
+Zasunyć
+Njeje dowolene.
+Njemóžach hódnotu stworić. Socket error code NotBound
+socket njeje wjazany
+NoweSocket error code NotSupported
+operacija so njepodpěruje
+njekorektne opcije
+Njekorektny CA
+pominana družina socketa so njepodpěruje
+Nowe
+Nowe
+Njeznaty zmylk
+Njemóžach dataju '% 1' wočinić.
+Njekorektny zaměr
+Njemóžach temporarnu dataju stworić.
+@ note/ plain
+Přispomnjenje:% 1
+Konfiguracija zdźělenkow... Phonon::
+Komunikaciski zmylk
+& HraPhonon::
+Wotpósłać
+W tutym indeksu móžeće pytać. zapodajće klučowe słowa:
+Wubrać...
+Žadyn provider njewubrany
+W & nowym woknje wočinić
+Wotkaz zawěsćić jako...
+Adresu & wotkaza kopěrować
+Wobraz kopěrować
+Wobraz zawěsćić jako
+Wobraz kopěrować
+Dataju wočinić
+Doprědka
+k słownikej dodaćSearch The Web context menu item
+Pytać
+< < K słownikej dodać
+Dataju wočinić
+Pismikowanjemenu item title
+menu item title
+Přepruwuj prawopis
+Přepruwuj prawopis
+Přepruwuj prawopis@ option: check
+PIsmo@ item font
+& Podšmórnjene
+Opcija
+Wopisanje
+WopisanjeEncodings menu
+StandardLeft to Right context menu item
+Naprawo
+Zasunyć
+Žane zapisy
+Pytanje w internećemenu item in Recent Searches menu that empties menu' s contents
+% 1 (% 2x% 3) dypkowMedia controller status message when the media is loading
+Media controller status message when watching a live broadcast
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+WulkosćMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+WumazaćMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media time description
+Media time description
+Media time description
+Media time description
+Media time description
+Začiń aktualne wokno abo dokument
+Select All
+Přichodny pismik
+Začiń aktualne wokno abo dokument
+Přešmórnjene
+Wotpósłać
+Zasunyć
+Zapodać
+keyboard- key- name
+Naprawo
+Družinowy zmylkQWebPage
+SysReq
+Pominane pismo
+Wokno začinić?
+CheckBox
+StronyMordad short
+Mor
+Testy
+Pozicija teksta
+Linka
+Wotpokazać
+ScrollLock
+Dock this window
+Přibić@ option: check
+PIsmo
+Wuwjesć@ action
+Wšitko wubrać
+@ action
+Wótrosć:% 1%
+Wužiwajće tutón suwak za připrawjenje wótrosće. Cyle nalěwo je 0%, cyle naprawo% 1%
+Němy
+Wróćo ke gratej '% 1' Phonon::
+ZdźělenkiPhonon::
+HudźbaPhonon::
+WidejoPhonon::
+KomunikacijaPhonon::
+HryPhonon::
+Přistupnosć
+Njemóžu wohrawać. Přepruwujće, hač je Gstreamer a libgstreamer- plugins- base instalowane.
+Njemóžu žórło za medium wočinić.
+Njewalidny typ žórła.
+Njemóžu žórło za medium namakać.
+Njemóžach zwukowy grat wočinić. Grat so hižo wužiwa.
+Njemóžach žórło mediuma dekodować.
+Kedźbu: Pakćik gstreamer0. 10- plugins- goodnjeje instalowany. Někotre widejo- opcije njesteja k dispoziciji.
+Kedźbu: Bazowy pakćik pluginow za GStreamer nejeje instalowany. Podpěra za zwuk a widejo njesteji k dispoziciji.
+Phonon Xine Backend
+This string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+This string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+aRts
+Esound (ESD)
+Wothrawanje njefunguje, dokelž njesteji ničo za output k dispoziciji
+PulseAudio

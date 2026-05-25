@@ -1,0 +1,2000 @@
+LPD-Druckerwarteschlange auf Fremdrechner
+SMB-Druckressource (Windows)
+Netzwerkdrucker (TCP)
+Dateidrucker (Drucken in Datei)Unknown type of local printer queue
+Unbekannt
+Lokale Druckerwarteschlange (%1)
+Unknown Driver
+LPD-Druckerwarteschlange auf Fremdrechner: %1@%2
+Erstellung des Ordners %1 für Warteschlange des Druckers %2 ist nicht möglich.
+Speichern der Informationen für Drucker %1 ist nicht möglich.
+Einrichten der korrekten Zugriffsrechte für Warteschlangenordner %1 des Druckers %2 ist nicht möglich.
+Zugriff verweigert: Sie müssen sich als Systemverwalter anmelden.
+Ausführen des Befehls„ %1“ ist nicht möglich.
+Schreiben der printcap-Datei ist nicht möglich.
+Der Treiber %1 ist in der printtool-Datenbank nicht vorhanden.
+Der Drucker %1 ist printcap-Datei nicht vorhanden.
+Kein Treiber auffindbar (raw printer)
+Druckertyp nicht erkannt.
+Der Treiber für das Gerät %1 ist in Ihrer Ghostscript-Distribution nicht einkompiliert. Bitte überprüfen Sie die Installation oder verwenden Sie einen anderen Treiber.
+Schreiben der zugehörigen Treiberdateien im Warteschlangenordner ist nicht möglich.
+APS-Treiber (%1)
+Netzwerkdrucker (%1)
+Nicht unterstütztes Ausgabegerät: %1.
+Erstellen des Ordners %1 nicht möglich.
+Fehlendes Element: %1.
+Ungültige Druckerspezifikation: %1
+Erstellen der Datei %1 nicht möglich.
+Es wurde kein APS-Treiber festgelegt.
+Entfernen des Ordners %1 nicht möglich.
+Unbekannt (Eintrag ist nicht zuzuordnen)
+Druckerwarteschlange (%1) auf %2
+Lokaler Drucker an %1
+Unbekannter Eintrag.
+Die Datei printcap befindet sich auf einem fremden Rechner (NIS). Sie kann nicht gespeichert werden.
+Die Datei„ printcap“ lässt sich nicht speichern. Überprüfen Sie, ob Sie Schreibrecht dafür besitzen.
+Interner Fehler: Kein Handler angegeben.
+Der Ordner für die Druckerwarteschlange kann nicht ermittelt werden. Siehe Optionen-Dialog.
+Erstellung des Ordners %1 für die Druckerwarteschlange ist nicht möglich. Stellen Sie sicher, dass Sie die erforderlichen Berechtigungen besitzen.
+Der Drucker wurde im System erstellt, aber der Druckdienst lässt sich nicht neu starten. %1
+Entfernen des Warteschlangenordners %1 ist nicht möglich. Sie haben wahrscheinlich keine ausreichende Berechtigung für diesen Vorgang.
+& Printcap-Eintrag bearbeiten...
+Die Bearbeitung eines Printcap-Eintrags sollte nur durch den Systemverwalter geschehen. Andernfalls wird der Drucker vielleicht nicht mehr funktionieren. Möchten Sie fortsetzen?
+Warteschlangentyp: %1
+Aktion wird nicht unterstützt.
+Druckerwarteschlange
+Einstellungen zur Warteschlange
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar.
+Zugriff verweigert.
+Drucker %1 existiert nicht.
+Unbekannter Fehler: %1
+Ausführung von lprm nicht möglich: %1
+unbekannt
+IFHP-Treiber (%1)
+Es wurde kein Treiber für diesen Drucker festgelegt. Vielleicht handelt es sich um einen Rohdaten-Drucker.
+LPRngTool-Standardtreiber (%1)
+Netzwerkdrucker
+Interner Fehler.
+Es ist keine ausführbare Foomatic-Datendatei über Ihren PATH auffindbar. Vergewissern Sie sich, dass Foomatic korrekt installiert ist.
+Erstellen des Foomatic-Treibers fehlgeschlagen (%1,%2). Entweder existiert der Treiber nicht an der erwarteten Position oder Sie haben keine ausreichende Berechtigung für diesen Vorgang.
+Sie haben wahrscheinlich keine ausreichende Berechtigung für diesen Vorgang.
+Ausführbare Datei„ lpdomatic“ ist nicht auffindbar. Bitte vergewissern Sie sich, dass Foomatic korrekt und in einem der üblichen Pfade installiert ist.
+Entfernen der Treiberdatei %1 ist nicht möglich.
+Aliase:
+Zeichenkette
+Zahl
+Boolsch
+Printcap-Eintrag: %1
+Aufstellungsort des Druckers: Der Aufstellungsort kann eine Angabe enthalten, wo sich der Drucker befindet. Diese Angabe wird vom Verwalter des Drucksystems vorgenommen (kann aber auch fehlen).
+Kommentar zum Drucker: Der Kommentar kann den ausgewählten Drucker beschreiben. Diese Angabe wird vom Verwalter des Drucksystems vorgenommen (kann aber auch weggelassen werden).
+Drucken
+Drucker
+& Name:Status
+Status:
+Typ:
+Aufstellungsort:
+Kommentar:
+& Eigenschaften
+Systemoptionen
+Als Standard
+Drucker-Auswahlliste ein-/ausschalten
+Drucker hinzufügen...
+& Drucken
+Druckvorschau
+& Ausgabedatei:
+Druckbefehl:
+Erweiterte Optionen ein-/ausblenden
+Dialog nach Abschluss des Druckvorgangs geöffnet lassen
+Beim Laden der Druckerliste ist ein Fehler aufgetreten:
+Es fehlt der Name der Ausgabedatei.
+Sie haben keine Schreibberechtigung für diese Datei.
+Ausgabeordner existiert nicht.
+Sie haben keine Schreibberechtigung für diesen Ordner.
+& Optionen > >
+Drucksystem wird initialisiert...
+In Datei drucken
+Alle Dateien
+Optionen
+Sofort
+Niemals (unbegrenzt anhalten)
+Nachts
+Wochenende
+Dritte Schicht (nach Mitternacht)
+Angegebene Zeit
+Zeitversetztes & Drucken:
+& Abrechnungsinformationen:
+Seitenbeschriftung & oben und unten:
+Auftragspriorität:
+Der angegebene Zeitpunkt ist ungültig.
+Kein Vorspann/Nachspann
+Verschlusssache
+Vertraulich
+Geheim
+Standard
+Streng geheim
+Keine Verschlusssache
+Textauswahl für Trennseiten
+& Vorspann:
+& Nachspann:
+Wählen Sie Vor- und Nachspann, die mit diesem Drucker verknüpft werden sollen. Dieser Vor- bzw. Nachspann wird vor und/oder nach jedem Druckvorgang an den Drucker gesendet und auf separaten Trennseiten ausgedruckt. Wenn Sie keine solchen Seiten einfügen möchten, dann wählen Sie Kein Vorspann/Nachspann.
+& Exportieren
+Druckertreiber für Windows-Rechner anbieten
+Benutzername:
+& Samba-Server:
+& Passwort:
+Samba-Server Die Adobe PostScript-Treiber für Windows sowie die passende CUPS-PPD-Datei für den Drucker wird in die spezielle Ressource [print$] des Samba-Servers exportiert. (Um die Adresse des CUPS-Servers zu ändern, verwenden Sie zunächst Verwaltung einrichten - > CUPS-Server). Die Ressource [print$] muss bereits auf Seiten von Samba existieren, bevor Sie auf den Knopf Exportieren klicken.
+Samba-Benutzername Der Benutzer muss Schreibzugriff auf die Ressource [print$] auf dem Samba-Server besitzen. [print$] enthält Druckertreiber, die sich von Windows-Stationen herunterladen lassen. Dieser Dialog funktioniert nicht für Samba-Server mit der Einstellung security = share (wohl aber mit security = user).
+Samba-Passwort Die Samba-Einstellung encrypt passwords = yes (Standard) erfordert die vorherige Verwendung des Befehls smbpasswd -a [username] zur Erzeugung und Initialisierung eines verschlüsselten Samba-Passworts.
+Ordner %1 wird erstellt
+%1 wird hochgeladen
+Treiberinstallation für %1
+Drucker %1 wird installiert
+& Schließen
+Treiber wurde erfolgreich exportiert.
+Vorgang fehlgeschlagen. Mögliche Gründe: Zugriff verweigert oder fehlerhafte Samba-Einrichtung (nähere Informationen unter cupsaddsmb, Sie benötigen CUPS in Version 1.1.11 oder höher). Versuchen Sie es eventuell erneut mit einem anderen Benutzernamen und/oder Passwort.
+Vorgang abgebrochen (Prozess beendet).
+Operation fehlgeschlagen %1
+Sie sind im Begriff, den Treiber %1 durch Samba an Windows-Clients zu exportieren. Dazu benötigen Sie den Adobe-PostScript-Treiber, eine aktuelle Version von Samba 2.2.x und einen laufenden SMB-Service auf dem Zielserver. Klicken Sie auf Export, um die Operation zu starten. Lesen Sie die Handbuchseite zu cupsaddsmb in Konqueror oder geben Sie man cupsaddsmb in einem Konsolenfenster ein, falls Sie weitere Informationen zu dieser Funktionalität benötigen.
+Einige Treiberdateien fehlen. Sie sind über die Webseiten von Adobe erhältlich. Weitere Details finden Sie auf der Handbuchseite cupsaddsmb (Sie benötigen CUPS in Version 1.1.11 oder höher).
+Übertragung des Treibers zu Rechner %1 wird vorbereitet
+& Abbrechen
+Treiber für Drucker %1 ist nicht aufzufinden.
+Installation des Treibers auf Rechner %1 wird vorbereitet
+Auswahl eines IPP-Druckers an Fremdrechner
+Sie müssen einen Drucker angeben.
+Sie haben keinen Zugriff auf die angeforderte Ressource.
+Sie sind nicht authorisiert, auf die angeforderte Ressource zuzugreifen.
+Die angegebene Operation ist nicht ausführbar.
+Der angeforderte Dienst ist momentan nicht verfügbar.
+Verbindung zu CUPS-Server fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiviert ist.
+IPP-Anfrage ist aus unbekanntem Grund fehlgeschlagen.
+Attribut
+Werte
+Wahr
+Falsch
+& Zeitraum:
+Größenbeschränkung (KB):
+& Seitenbeschränkung:
+Nutzungsbeschränkungen
+Einstellungen zur Nutzungsbeschränkung (Quota)
+Ohne Nutzungsbeschränkung
+Keine
+IPP-Server auf Fremdrechner
+Geben Sie hier Informationen zu demjenigen nicht-lokalen IPP-Server an, zu dem der Zieldrucker gehört. Der Assistent wird den Server abfragen, bevor Sie fortfahren.
+Rechner:
+Port:
+Fehlender Servername.
+Ungültige Portangabe.
+Verbindung zu %1 auf Port %2 nicht möglich.
+Vorspann/Nachspann
+Trennseiten-Einstellungen
+IPP-Bericht
+Interner Fehler: Erstellen eines HTML-Reports ist nicht möglich.
+Einstellungen zu Benutzerzugriffen
+Benutzer
+Zugelassene Benutzer
+Nicht zugelassene Benutzer
+Erstellen Sie hier eine Gruppe von zugelassenen oder nicht zugelassenen Benutzern für diesen Drucker.
+& Typ:
+Text
+Textformat
+Syntaxhervorhebung
+Ränder
+Zeichen pro Zoll (cpi):
+Zeilen pro Zoll (lpi):
+Spalten:
+& Deaktiviert
+Aktiviert
+Ordner
+Einstellungen für CUPS-Ordner
+Installationsordner
+Standardinstallation (/)
+Zusätzliche Einstellungen
+Name
+Wert
+Nur lesen
+Das Feld„ Name“ darf keine Leerzeichen, Tabulatoren oder Anführungszeichen enthalten: %1.
+& CUPS-Server (IPP/HTTP) auf Fremdrechner
+Netzwerkdrucker (IPP/HTTP)
+Serielles & Fax / Modemdrucker
+& Sonstiger Druckertyp
+Druckerklasse
+Beim Laden der Druckerliste ist ein Fehler aufgetreten:
+Priorität
+Abrechnungsinformationen
+Serielles Faxgerät
+Wählen Sie das Gerät aus, an das Ihr serielles Fax/Modem angeschlossen ist.
+Sie müssen ein Gerät auswählen.
+Bibliotheksdatei„ cupsdconf“ ist nicht aufzufinden. Überprüfen Sie bitte Ihre Installation.
+Symbol %1 ist in der Bibliothek„ cupsdconf“ nicht aufzufinden.
+Treiber exportieren...
+& IPP-Bericht für Drucker
+IPP-Bericht für %1
+Fehler bei der Übermittlung von Druckerinformationen:
+Server
+IPP-Anfrage aus unbekannten Gründen fehlgeschlagen
+Verbindung zu CUPS-Server fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiv ist. Fehler: %1.
+Verbindungsaufbau abgelehnt
+Rechner ist nicht auffindbar
+Lesen fehlgeschlagen (%1)
+Die Verbindung zum CUPS-Server ist fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiv ist. Fehler: %2: %1
+HP-GL/2-Optionen
+& Nur schwarzen Stift verwenden
+& Plot auf Seite einpassen
+& Stiftbreite:
+IPP-Druckerinformationen
+Drucker-URI:
+Geben Sie entweder direkt die URI des Druckers an oder benutzen Sie das Programm zum Durchsuchen des Netzwerks.
+& IPP-Bericht
+Sie müssen eine Drucker-URI angeben.
+Kein Drucker an dieser Adresse / diesem Port.Unknown host - 1 is the IP
+< unbekannt > (%1)
+Name: %1
+Adresse: %1
+Beschreibung: %1
+Modell: %1
+Inaktiv
+Angehalten
+Verarbeitung läuft...
+Status: %1
+Druckerinformationen können nicht abgefragt werden. Drucker antwortet: %1
+IPP-Report lässt sich nicht erzeugen: IPP-Anfrage erzeugt die Meldung %1 (0x%2).
+URI-Auswahl
+Geben Sie die Adresse (URI) für den zu installierenden Drucker an. Beispiele: smb://[login[:passwd]@]server/printer lpd://server/queue parallel:/dev/lp0
+URI:
+CUPS-Server %1:%2
+Serverinformation
+Zugangsinformationen
+& Rechner:
+& Port:
+Benutzer:
+& Passwort:
+& Passwort in Einrichtungsdatei speichern
+Anonymen Zugang verwenden
+Sekunde(n)
+Minute(n)
+Stunde(n)
+Tag(e)
+Woche(n)
+Monat(e)
+Drucker-Nutzungsbeschränkungen (Quota)
+Hier können Sie Nutzungsbeschränkungen für den Drucker festlegen. Die Einstellung 0 bedeutet, dass keine Beschränkung angewendet wird und entspricht der Festlegung Keine Nutzungsbeschränkung (-1). Nutzungsbeschränkungen werden anhand eines Benutzers definiert und dann auf alle Benutzer übertragen.
+Sie müssen zumindest eine Nutzungsbeschränkung angeben.
+CUPS-Server
+Einstellungen für CUPS-Server
+Nicht zugelassene Benutzer
+Zugelassene Benutzer
+Alle Benutzer sind zugelassen
+Bilder
+Farbeinstellungen
+Bildgröße
+Bild-Position
+& Helligkeit:
+& Farbton (Farbrotation):
+& Sättigung:
+& Gamma (Farbkorrektur):
+& Voreinstellungen
+Tatsächliche Bildgröße
+Auflösung (ppi)
+% der Seite
+% der Originalgröße
+Bildgröße:
+Auftragsbericht
+Fehler bei der Übermittlung von Auftragsinformationen:
+& IPP-Bericht zum Auftrag
+Priorität & heraufsetzen
+Priorität herabsetzen
+& Attribute bearbeiten...
+Änderung der Auftragspriorität nicht möglich:
+Drucker %1 ist nicht auffindbar.
+Attribute von Auftrag %1@%2 (%3)
+Setzen der Auftragsmerkmale nicht möglich:
+Die Angaben zum Drucker sind unvollständig. Versuchen Sie, ihn neu zu installieren.
+Einstellungen für Druckerwarteschlange auf Fremdrechner
+Druckerwarteschlage:
+Fehlender Rechnername.
+Fehlender Name für Druckerwarteschlange.
+Druckerwarteschlange %1 auf %2
+Keine vorgegebenen Drucker
+Druckerwarteschlage
+Fehlender Druckername.
+Drucker ist nicht auffindbar.
+Noch nicht verfügbar.
+Proxy
+RLPR-Proxy-Einstellungen
+Proxy-Einstellungen
+Proxyserver verwenden
+Dateiübertragung fehlgeschlagen.
+Unerwarteter Abbruch des Prozesses (%1).
+%1: Ausführung fehlgeschlagen mit Meldung: %2
+Fehler bei der Druckausgabe. Das System meldet: %1
+Einige der zum Drucken vorgemerkten Dateien können vom KDE Druckhintergrundprogramm nicht gelesen werden. Das kann passieren, wenn sie mit einem anderen Benutzer drucken als dem gerade angemeldeten. Wenn Sie fortsetzen möchten, müssen Sie das Passwort des Systemverwalters eingeben.
+Passwort des Systemverwalters eingeben
+Druckstatus - %1
+Drucksystem
+Authentifizierung fehlgeschlagen (Benutzername %1)
+In Warteschlange
+Angehalten
+Abgebrochen
+Abgebrochen
+Abgeschlossen
+Dienstprogramme für Epson InkJet
+& Direkte Verbindung benutzen (benötigt evtl. Rechte des Systemverwalters)
+Drucker:
+Gerät:
+Druckkopf & reinigen
+Testmuster für & Düsen drucken
+Druckkopf ausrichten
+& Tintenstand
+Druckerkennung
+Interner Fehler: Kein Gerät angegeben.
+Nicht unterstützter Verbindungstyp: %1
+Ein läuft noch ein Prozess für escputil. Sie müssen seine Beendigung abwarten, bevor Sie fortsetzen können.
+Die ausführbare Datei„ escputil“ ist nicht in Ihrem PATH auffindbar. Stellen Sie bitte sicher, dass„ gimp-print“ installiert und„ escputil“ über die Umgebungsvariable PATH zugänglich ist.
+Interner Fehler:.Prozess„ escputil“ lässt sich nicht starten.
+Vorgang mit Fehler abgebrochen.
+Ausgabe
+Der Drucker %1 existiert bereits. Wenn Sie fortfahren, überschreiben Sie diesen Drucker. Möchten Sie den Vorgang fortsetzen?
+Verwaltung wird initialisiert...
+Symbole,Liste,Baum
+Drucker starten/anhalten
+Drucker & starten
+Drucker anhalten
+Druckerwarteschlange (de)aktivieren
+Druckerwarteschlange & aktivieren
+Druckerwarteschlange & deaktivieren
+Entfernen
+& Einrichten...
+Drucker/Klasse hinzufügen...
+Speziellen Drucker/Pseudo-Drucker hinzufügen...
+Als & lokalen Standard festlegen
+Als & Benutzerstandard festlegen
+Drucker & testen...
+& Verwaltung einrichten...
+Manager/Ansicht initialisieren
+& Ausrichtung
+& Senkrecht,Waagrecht
+& Server neu starten
+Server & einrichten...
+& Werkzeugleiste anzeigen
+& Menü-Werkzeugleiste anzeigen
+& Details zum Drucker anzeigen
+Druckerfilter an/aus
+& Handbuch zu %1
+%1-Webseite
+Drucker-Dienstprogramme
+Hinzufügen
+Druckserver
+Druckerverwaltung
+Dokumentation
+Beim Laden der Druckerliste ist ein Fehler aufgetreten.
+Ändern der Einstellungen für Drucker %1 ist nicht möglich.
+Möchten Sie %1 wirklich löschen?
+Entfernen des speziellen Druckers %1 ist nicht möglich.
+Entfernen von Drucker %1 ist nicht möglich.
+%1 einrichten
+Ändern der Einstellungen für Drucker %1 ist nicht möglich.
+Laden eines passenden Treibers für Drucker %1 ist nicht möglich.
+Erstellung des Druckeranschlusses ist nicht möglich.
+Festlegung des Druckers %1 als Standard ist nicht möglich.
+Sie sind im Begriff, eine Testseite auf %1 zu drucken. Möchten Sie fortfahren?
+Testseite drucken
+Testseite wurde erfolgreich an %1 gesendet.
+Testen des Druckers %1 nicht möglich.
+Interner Fehler (ohne weitere Meldung).
+Fehlermeldung des Verwaltungsprogramms: %1
+Neustart des Druckservers ist nicht möglich.
+Server neu starten...
+Einrichtung des Druckservers ist nicht möglich.
+Server einrichten...
+Druckerdienstprogramm lässt sich nicht starten. Mögliche Gründe: Kein Drucker ausgewählt, einem ausgewählten Drucker wurde kein lokaler Anschluss (Port) zugeordnet oder die erforderlichen Bibliotheksdateien sind nicht auffindbar.
+Liste der Drucker lässt sich nicht übertragen.
+Befehle
+Befehlseinstellungen
+Befehl erstellen/bearbeiten
+Befehlsobjekte nehmen eine Umwandlung von Eingabe zur Ausgabe vor. Sie sind die Grundlage für Druckfilter und Spezialdrucker und haben die Form von Befehlen mit Parametern, Listen von zu erfüllenden Bedingungen und verknüpften MIME-Typen. Hier können Sie neue Befehlsobjekte erstellen und existierende bearbeiten. Alle Änderungen betreffen nur Sie, keine anderen Benutzer.
+& Nächster >
+< & Zurück
+Assistent für die Druckereinrichtung
+Drucker ändern
+Angeforderte Seite ist nicht auffindbar.
+& Abschließen
+Befehl auswählen
+Auswahl des lokalen Anschlusses
+Lokales System
+Parallel
+Seriell
+USB
+Sonstiger
+Wählen Sie einen gültigen Anschluss unter den aufgefundenen oder geben Sie eine entsprechende Adresse (URI) in das Feld unten ein. The URI is empty
+Die lokale Adresse (URI) entspricht nicht dem gefundenen Anschluss. Trotzdem fortfahren?
+Wählen Sie einen gültigen Anschluss aus.
+Es ist kein lokaler Anschluss aufzufinden.
+Druckertyp:
+Schnittstelle
+Schnittstellen-Einstellungen
+IPP-Drucker
+Lokaler Drucker an USB-Schnittstelle
+Lokaler Drucker an paralleler Schnittstelle
+Lokaler Drucker an serieller Schnittstelle
+Netzwerkdrucker (Socket)
+SMB-Drucker (Windows)
+Datei-Drucker
+Serielles Fax / ModemdruckerUnknown Protocol
+Beschreibung:
+Modell:
+Mitglieder:
+Implizite Klasse
+Klasse auf Fremdrechner
+Lokale Klasse
+Drucker an Fremdrechner
+Lokaler Drucker
+Spezieller DruckerUnknown class of printer
+Klassen-Zusammensetzung
+Verfügbare Drucker:
+Klassen-Drucker:
+Sie müssen mindestens einen Drucker auswählen.
+Druckername:
+Allgemeine Einstellungen
+& Einstellungen
+Durchsuchen
+Netzwerk durchsuchen:
+Subnetz: %1
+Sie sind im Begriff, ein Subnetz (%1.*) durchsuchen zu lassen, das nicht dem Subnetz Ihres Rechners (%2.*) entspricht. Möchten Sie den Vorgang fortsetzen?
+& Durchsuchen
+& Subnetz:
+& Zeitlimit (ms):
+Such-Einstellungen
+Unzulässige Subnetzangabe.
+Unzulässige Zeitlimitangabe.
+Unzulässige Portangabe.
+Einrichten
+Einige der ausgewählten Einstellungen sind widersprüchlich. Bitte beseitigen Sie diese Widersprüche, bevor Sie fortfahren.
+Dateiauswahl
+Die Druckausgabe wird in eine Datei umgeleitet. Geben Sie hier den Pfad zu der Datei an, die Sie für die Umleitung verwenden möchten. Geben Sie entweder einen absoluten Pfad an oder benutzen Sie den Knopf„ Auswählen“.
+Drucken in Datei:
+Fehlender Dateiname.
+Der Ordner existiert nicht.
+Vorschau
+Vorschau-Einstellungen
+Vorschauprogramm
+Externes Vorschauprogramm verwenden
+Sie können ein externes Vorschauprogramm verwenden (ausschließlich PostScript-Betrachter), das anstelle des eingebauten Systems verwendet werden soll. Beachten Sie: Falls der standardmäßige PostScript-Betrachter von KDE (KGhostView) nicht auffindbar ist, wird automatisch nach einem anderen externen Betrachtungsprogramm gesucht.
+Druckertest
+Hersteller:
+Modell:
+Beschreibung:
+& Test
+Sie können nun den Drucker testen, bevor Sie die Installation abschließen. Verwenden Sie den Knopf Einstellungen, um den Druckertreiber einzustellen und den Knopf Test, um die vorgenommene Einrichtung zu überprüfen. Benutzen Sie den Knopf Zurück, um den Treiber zu wechseln (in diesem Fall werden Ihre aktuellen Einstellungen gelöscht).
+Laden des angeforderten Treibers nicht möglich: %1
+Seite wurde erfolgreich an den Drucker gesendet. Warten Sie, bis der Ausdruck fertig ist und klicken Sie dann auf den Knopf OK.
+Testen des Druckers nicht möglich:
+Entfernen des temporären Druckers nicht möglich.
+Erstellung eines temporären Druckers nicht möglich.
+Ändern der Druckereigenschaften nicht möglich. Fehlermeldung des Verwaltungsprogramms: %1
+KDE-Druckdienste einrichten
+Druckserver einrichten
+Assistent für die Druckereinrichtung
+Assistent für Druckereinrichtung starten
+Es ist keine ausführbare Datei für die Erstellung der Treiberdatenbank festgelegt. Diese Aktion ist nicht ins Programm eingebaut.
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar. Bitte stellen Sie sicher, dass das Programm existiert und über die Umgebungsvariable PATH zugänglich ist.
+Erstellung der Druckerdatenbank nicht möglich. Die Ausführung von %1 ist fehlgeschlagen.
+Bitte warten Sie, bis KDE die Treiberdatenbank neu erstellt hat.
+Treiberdatenbank
+Fehler bei Erstellung der Treiberdatenbank: Unerwarteter Abbruch des abhängigen Prozesses.
+Benutzerkennung
+Dieses Ausgabegerät erfordert eventuell einen Benutzernamen und/oder ein Passwort, um korrekt zu funktionieren. Bitte geben Sie den Zugangstyp an, und füllen Sie die erforderlichen Felder aus.
+& Anmelden:
+& Gastzugang (Anmeldung als„ gast“ bzw.„ guest“)
+& Normaler Zugang
+Wählen Sie eine Option aus
+Der Benutzername fehlt.
+Informationen zum Netzwerkdrucker
+Druckeradresse:
+& Port:
+Sie müssen eine Druckeradresse angeben.
+Falsche Portnummer.
+Ändern...
+Einrichtung des KDE-Druckdienstes
+Druckermodell auswählen
+Rohdaten-Drucker
+Interner Fehler: Treiber ist nicht auffindbar.
+Kein Drucker
+Alle Drucker
+Druckaufträge für %1
+Unbegrenzt
+Max.: %1
+Auftragskennung
+EigentümerStatus
+Status
+Größe (KB)
+Seite(n)
+& Anhalten
+& Wiederaufnehmen
+Entfernen
+& Neu starten
+& Verschieben auf Drucker
+& Abgeschlossene Aufträge anzeigen/nicht anzeigen
+Nur Benutzeraufträge anzeigen
+Benutzername
+Drucker auswählen
+Aktualisieren
+Fenster dauerhaft anzeigen
+Aktion„ %1“ lässt sich an ausgewählten Druckaufträgen nicht ausführen. Fehlermeldung des Verwaltungsprogramms:
+Anhalten
+Fortsetzen
+Entfernen
+Neu starten
+Auf %1 verschieben
+Vorgang fehlgeschlagen.
+Einstellungen zu Druckauftrag
+Zeit zwischen Aktualisierungen
+Sek
+Hier wird das Aktualisierungsintervall verschiedener Komponenten des KDE-Druckmoduls festgelegt, z. B. für den Druckmanager und die Druckvorschau.
+Testseite
+& Benutzerdefinierte Testseite angeben
+Vorschau...
+& Status der Druckaufträge anzeigen
+Zuletzt vom & Programm benutzten Drucker verwenden
+Die ausgewählte Seite hat kein PostScript-Format. Es wird vielleicht nicht mehr möglich sein, den Drucker zu überprüfen.
+Kommentar
+Bestätigung
+Typ
+Adresse
+Beschreibung
+Mitglieder
+Ausgabegerät
+Gerät
+Drucker-IP
+Port
+Rechner
+Datei
+Zugang
+URI
+DB-Treiber
+Externer Treiber
+Hersteller
+Modell
+Schriftarten
+Schrift-Einstellungen
+Schrifteneinbettung
+Pfad zu Schriftarten
+& Schriften beim Drucken in PostScript-Datei einbetten
+Nach & oben
+Nach & unten
+& Hinzufügen
+& Zusätzlicher Ordner:
+Diese Einstellungen erlauben die Einbettung von Schriften in PostScript-Dateien, die vom Drucker selbst nicht angeboten werden. Eine solche Einbettung führt oft zu besseren Druckresultaten, die auch eher der Bildschirmdarstellung entsprechen, aber sie vergrößert auch die Menge der übertragenen Daten.
+Wenn Sie die Schrifteneinbettung verwenden, dann können Sie zusätzliche Ordner auswählen, in denen KDE nach einbettungsfähigen Schriftdateien sucht. In der Voreinstellung wird der Schriftenpfad des X-Servers verwendet, der in den meisten Fällen ausreichen sollte.
+SMB-Drucker-Einstellungen
+Durchsuchen
+Abbrechen
+Arbeitsgruppe:
+Server:
+Anmelden: %1
+Klassenmitglieder
+Integer
+Gleitkomma
+Liste
+& Beschreibung:
+& Format:
+Standardwert:
+Befehl:
+& Durchgehende Option
+& Werte
+& Minimalwert:
+Maximalwert:
+Wert hinzufügen
+Wert löschen
+Änderungen anwenden
+Gruppe hinzufügen
+Option hinzufügen
+Element löschen
+Nach oben verschieben
+Nach unten verschieben
+Eingabe & von
+Ausgabe & in
+Datei:
+Umleitung (Pipe):
+Unzulässige Kennung. Die Auslassung der Angabe oder„ __root__“ sind nicht möglich.
+Neue Gruppe
+Neue Option
+Befehlsbearbeitung für %1
+& MIME-Einstellungen
+Unterstützte & Eingabeformate
+Voraussetzungen
+Befehl bearbeiten...
+Ausgabeformat:
+ID-Name:
+exec: /
+Informationen zur LPD-Druckerwarteschlange
+Geben Sie die Informationen bezüglich der LDP-Druckerwarteschlange auf dem Fremdrechner ein. Der Assistent wird sie überprüfen, bevor er fortfährt.
+Es fehlen einige Informationen.
+Warteschlange %1 auf Server %2 ist nicht auffindbar. Möchten Sie trotzdem fortfahren?
+Filter
+Filtereinstellungen für Drucker
+Druckerfilter
+Ein Druckerfilter macht es möglich, nur einige spezielle Drucker anzuzeigen. Das kann nützlich sein, falls Sie über eine große Anzahl Drucker verfügen, aber nur einige wenige tatsächlich benutzen. Wählen Sie die gewünschten Drucker aus der Liste oder geben Sie einen„ Positionsfilter“ ein (z. B. Gruppe_1). Filterinhalte werden zusammengeführt bzw., falls kein Inhalt vorhanden ist, ignoriert.
+Positionsfilter:
+Treiberauswahl
+Es wurden mehrere Treiber für dieses Modell gefunden. Wählen Sie den Treiber, den Sie verwenden möchten. Sie haben die Möglichkeit, den Treiber zu testen und nötigenfalls zu wechseln.
+Treiber-Informationen
+Sie müssen einen Treiber auswählen.
+[empfohlen]
+Über den ausgewählten Treiber sind keine Informationen verfügbar.
+Einführung
+Willkommen!Dieser Assistent wird Ihnen dabei helfen, einen neuen Drucker für Ihren Rechner zu installieren. Er führt Sie durch den gesamten Prozess der Installation und Einrichtung eines Druckers für das jeweilige System. Bei jedem Schritt können Sie über den Knopf Zurück auf den letzten Stand zurück gehen.Wir hoffen, Sie haben Freude an diesem Dienstprogramm. Das KDE-Druckerteam
+& PostScript-Drucker
+& Rohdaten-Drucker (kein Treiber erforderlich)
+& Sonstige...
+& Hersteller:
+& Modell:
+Ladevorgang läuft...
+PostScript-Treiber nicht auffindbar.
+Treiber auswählen
+< Unbekannt >
+Datenbank
+Falsches Treiberformat.
+Sonstige
+Neuer Befehl
+Befehl bearbeiten
+Informationen
+& Auswählen...
+Befehl & verwenden:
+Befehlsbezeichnung
+Geben Sie einen Namen für den neuen Befehl ein:
+Ein Befehl namens %1 existiert bereits. Möchten Sie fortsetzen und diesen existierenden Befehl verändern?
+Interner Fehler. Der XML-Treiber für den Befehl %1 ist nicht auffindbar.
+Ausgabe
+Nicht definiert
+Nicht zulässig
+(Nicht verfügbar: Voraussetzungen nicht erfüllt)
+Drucksystem
+Klassen
+Drucker
+Andere Geräte
+Hersteller:
+Druckermodell:
+Treiberinformationen:
+Treiber-Einstellungen
+Druckaufträge
+Angezeigte Aufträge
+Max. Anzahl angezeigter Druckaufträge:
+Allgemeine Informationen
+Geben Sie hier die Informationen zu Ihrem Drucker oder der Klasse ein. Eine Angabe unter Name ist zwingend erforderlich, Adresse und Beschreibung müssen nicht angegeben werden. (Letztere werden auf manchen Systemen nicht einmal verwendet.)
+Name:
+Sie müssen zumindest einen Namen eintragen.
+Es ist normalerweise nicht empfehlenswert, Leerzeichen im Druckernamen zu verwenden. Das wird eventuell ein korrektes Funktionieren Ihres Druckers verhindern. Der Assistent kann alle Leerzeichen aus dem eingegebenen Namen entfernen. Das Ergebnis wäre %1. Wie möchten Sie weiter verfahren?
+Leerzeichen entfernen
+Beibehalten
+Endgeräteauswahl
+Sie müssen ein Endgerät auswählen.
+& Lokaler Drucker (parallel, seriell, USB)
+& SMB-Druckressource (Windows)
+LPD-Druckerwarteschlange auf Fremdrechner
+& Netzwerkdrucker (TCP)
+Hier können Sie Profile für den aktuell ausgewählten Druckers festlegen oder bearbeiten. Ein„ Profil“ ist eine Kombination aus dem wirklichen (physisch vorhandenen) Drucker und vordefinierten Optionen. Für einen einzelnen Tintenstrahldrucker können Sie z. B. unterschiedliche Grundeinstellungen festlegen wie Entwurfsqualität, Fotoqualität oder Beidseitig. Diese Profile erscheinen wie normale Geräte in den Druckdialogen und erlauben die rasche Auswahl von Druckoptionen, die Sie öfter benötigen.
+Neu...
+Kopieren...
+Als Standard festlegen
+Einstellungen
+Test...
+(Standard)
+Profilname
+Name des Profils (keine Angabe für Standard):
+Name darf keine Leerzeichen enthalten.
+Möchten Sie %1 wirklich löschen?
+Das Standardprofil lässt sich nicht entfernen. Es werden jedoch alle Einstellungen von %1 verworfen. Möchten Sie fortfahren?
+Profil %1 ist nicht auffindbar.
+Übermittlung der Druckerinformationen nicht möglich. Nachricht des Drucksystems: %1.
+Es existiert kein Name für die Ressource. Bitte wählen Sie einen aus.
+Interner Fehler: Drucker nicht gefunden.
+Senden der Testseite %1 ist nicht möglich.
+Eigenschaften
+Profile
+Spezialdrucker hinzufügen
+& Adresse:
+& Befehlseinstellungen
+& Ausgabedatei
+& Ausgabedatei aktivieren
+Dateierweiterung:
+Der Befehl verwendet eine Ausgabedatei. Falls aktiviert, stellen Sie bitte sicher, dass der Befehl einen entsprechenden Ausgabeparameter enthält.
+Der Befehl, der ausgeführt werden muss, wenn auf diesen speziellen Drucker ausgegeben werden soll. Geben Sie diesen Befehl entweder direkt ein oder verknüpfen Sie ein„ Befehlsobjekt“ für diesen Drucker. Die Methode„ Befehlsobjekt“ wird bevorzugt, da sie zusätzliche Möglichkeiten anbietet wie etwa die Überprüfung von MIME-Typen, flexibel einstellbare Optionen und Listen von Bedingungen, die erfüllt sein müssen. Falls ein einfacher Befehl bevorzugt wird, stehen folgende Parameter zur Verfügung: %in: die Eingabedatei (erforderlich) %out: die Ausgabedatei (erforderlich, wenn in eine Datei gedruckt wird) %psl: das Papierformat in Kleinschreibung %psu: das Papierformat mit dem ersten Buchstaben in Großschreibung
+Standardmäßiger MIME-Typ der Ausgabedatei (z. B. application/postscript)
+Standard-Erweiterung der Ausgabedatei (z. B. *.ps, *.pdf, *.ps.gz)
+Sie müssen einen Namen angeben.
+Ungültige Einstellungen: %1.
+%1 einrichten
+Pfad
+Datei hinzufügen
+Datei entfernen
+Datei öffnen
+Ziehen Sie eine oder mehrere Dateien hierher oder benutzen Sie den Knopf, um einen Dateidialog zu öffnen. Wenn Sie lt;STDINgt; verwenden möchten, lassen Sie die Liste leer.
+Anpassungen
+Aktuelles Drucksystem:
+Modul-Informationen:
+Initialisierung...
+Erstellen der Druckdaten: Seite %1
+Vorschau...
+Es wurde keine gültige ausführbare Datei in Ihrem PATH gefunden. Überprüfen Sie Ihre Installation.
+Das ist kein Foomatic-Drucker
+Es fehlen einige Informationen zum Drucker
+Diese Operation ist noch nicht verfügbar.
+Testseite ist nicht auffindbar.
+Ein regulärer Drucker kann nicht mit den Einstellungen eines Spezialdruckers überschrieben werden.
+Paralleler Anschluss #%1
+Laden der KDE-Druckverwaltungsbibliothek nicht möglich: %1
+Laden des Assistentenobjekts aus Verwaltungsbibliothek ist nicht möglich.
+Laden des Optionendialogs aus Verwaltungsbibliothek ist nicht möglich.
+Keine Modul-Information verfügbar
+Keine Beschreibung verfügbar
+Druckerwarteschlange für %1
+Eine Datei des Typs share/kdeprint/specials.desktop wurde in Ihrem lokalen KDE-Ordner gefunden. Sie stammt vermutlich aus einer früheren KDE-Version und sollte entfernt werden, um die Verwaltung globaler Spezialdrucker (bzw .„ Pseudodrucker“) zu ermöglichen.
+Es können nicht mehrere Dateien in eine gedruckt werden.
+Die Druckdatei %1 lässt sich nicht speichern. Überprüfen Sie, ob Sie Schreibrecht dafür besitzen.
+Dokument %1 wird gedruckt
+Senden der Daten an Drucker %1
+Abhängiger Druckprozess kann nicht gestartet werden.
+Der KDE-Druckserver (kdeprintd) ist nicht auffindbar. Stellen Sie sicher, dass der Server läuft.1 is the command that < files > is given to
+Überprüfen Sie die Befehlssyntax: %1 < files >
+Keine gültige Datei zum Drucken auffindbar. Operation wurde abgebrochen.
+Die gewünschte Seitenauswahl lässt sich nicht durchführen. Der Filter psselect kann nicht in die aktuelle Filterkette eingefügt werden. Siehe Karteikarte Filter im Eigenschaften-Dialog.
+Fehler beim Lesen der Filterbeschreibung für %1. Die empfangene Befehlszeile war leer.
+Fehler beim Lesen der Filterbeschreibung für %1. Die empfangene Befehlszeile war leer.
+Der MIME-Typ %1 wird als Eingabeformat nicht unterstützt. (Dies kann z. B. eintreten, wenn ein anderes Warteschlangensystem als CUPS und bei der Seitenauswahl ein anderes Format als PostScript verwendet wird.) Möchten Sie, dass KDE die Datei in ein unterstütztes Format umwandelt?
+Umwandeln
+MIME-Typ auswählen
+Wählen Sie das Zielformat für die Formatumwandlung:
+Vorgang abgebrochen.
+Kein passender Filter gefunden. Bitte wählen Sie ein anderes Ausgabeformat.
+Aktion wurde mit folgender Meldung abgebrochen: %1 Bitte wählen Sie ein anderes Ausgabeformat.
+Filtern der Druckdaten
+Fehler bei der Filter-Ein-/Ausgabe. Der Befehl lautete %1.
+Das Dateiformat %1 wird vom aktuellen Drucksystem nicht direkt unterstützt. KDE kann versuchen, diese Datei automatisch in ein unterstütztes Format umzuwandeln. Sie können auch versuchen, die Datei ohne eine solche Umwandlung an den Drucker zu schicken. Möchten Sie, dass KDE versucht, diese Datei in %2 umzuwandeln?
+ISO A4
+Folio
+US #10-Umschlag
+ISO DL-Umschlag
+Tabloid
+ISO A3
+ISO A2
+ISO A1
+ISO A0
+Obere Zufuhr
+Untere Zufuhr
+Multifunktionsschacht
+Schacht für große Druckaufkommen
+Normal
+Folie
+Seitenformat:
+Papiertyp:
+Papiereinzug:
+Ausrichtung
+Beidseitiger Druck
+Seiten pro Blatt
+& Hochformat
+& Querformat
+& Umgekehrtes Querformat
+Umgekehrtes Hochformatduplex orientation
+& Kein Duplexdruckduplex orientation
+& Lange Seiteduplex orientation
+& Kurze Seite
+Start:
+Ende:
+Wert:
+Zeichenkette:
+Keine Einstellung ausgewählt
+Einrichtung von %1
+(Aufträge werden abgewiesen)
+(Aufträge werden angenommen)
+& Datei
+& Seitenmarkierungen
+Exemplare
+Seitenauswahl
+& Alle
+Aktuell
+& Bereich
+Geben Sie Seiten oder Gruppen von Seiten an, durch Komma getrennt (Beispiel: 1,3-5,8).
+Ausgabeeinstellungen
+& Zusammenstellen
+& Umkehren
+Exemplare:
+Alle Seiten
+Ungerade Seiten
+Gerade Seiten
+Vorauswahl:
+Seiten
+Möchten Sie den Druckvorgang dennoch fortsetzen?
+Druckvorschau
+Abbrechen
+Das Vorschauprogramm %1 wurde nicht gefunden. Überprüfen Sie, dass das Programm korrekt installiert ist, und dass es in einem Ordner liegt, der in Ihrer Umgebungsvariable PATH enthalten ist.
+Keine Vorschau möglich: Es wurde weder der interne PostScript-Betrachter von KDE gefunden (kghostview) noch ein entsprechendes externes Programm.
+Vorschau fehlgeschlagen: Programm %1 lässt sich nicht ausführen.
+Möchten Sie den Druckvorgang fortsetzen?
+Es gab einen Fehler beim Laden von %1 Die Diagnose lautet: %2
+Einige der ausgewählten Einstellungen sind widersprüchlich. Bitte beseitigen Sie diese Widersprüche, bevor Sie fortfahren. Auf der Karteikarte Erweitert finden Sie zusätzliche Informationen.
+Keine Postervorschau verfügbar. Entweder ist das Programm poster nicht korrekt installiert, oder Sie verwenden nicht die benötigte Version, die über http://printing.kde.org/downloads / verfügbar ist.
+Drucker-Einstellungen
+Es gibt keine Einstellungsmöglichkeiten für den Drucker.
+Keine Vorschau verfügbar
+& Dateien
+Benutzerdefinierte Ränder verwenden
+& Oben:
+& Unten:
+& Links:
+& Rechts:
+Zoll (in)
+Zentimeter (cm)
+Millimeter (mm)
+Poster
+Poster drucken
+Posterformat:
+Format des Mediums:
+& Bedruckbarer Bereich:
+& Beschnittbereich (% des Mediums):
+Auf Seiten & verteilen:
+Poster- und Druckmedien-Größe verknüpfen bzw. ihre Verknüpfung aufheben
+Eine der Anforderungen des Befehlsobjekts ist nicht erfüllt.
+Der Befehl enthält nicht das erforderliche Element %1.
+& Exportieren...
+Filter
+Filter hinzufügen
+Filter entfernen
+Filter nach oben verschieben
+Filter nach unten verschieben
+Filter einrichten
+Interner Fehler: Filter ist nicht auffindbar.
+Die angegebene Filterabfolge funktioniert nicht. Das Ausgabeformat von wenigstens einem Filter wird von seinem Nachfolger nicht unterstützt. Weitere Informationen finden Sie auf der Karteikarte Filter.
+Eingabe
+Druckformat
+Farbmodus
+& Farbe
+& Graustufen
+& Sonstige
+Fax-System:
+Befehl:
+& Fax-Server (falls vorhanden):
+Fax/Modem-Gerät:
+Standardmäßiger Modemanschluss
+Fax wird gesendet an: %1 (%2)
+Fax wird gesendet an %1...
+%1 wird übersprungen...
+%1 wird gefiltert...
+Die Datei lässt sich nicht zum Schreiben öffnen.
+A4
+& Auflösung:
+& Papiergröße:
+& Name:
+& Firma:
+& Nummer:
+Internationales Präfix„ +“ ersetzen durch:
+FaxNAME OF TRANSLATORS
+Thomas Diehl,Thomas ReitelbachEMAIL OF TRANSLATORS
+KPrinter
+Drucker-Dienstprogramm für KDE
+Interne Kopie der zu druckenden Dateien erstellen
+Drucker/Druckziel
+Titel/Name für den Druckauftrag
+Anzahl Exemplare
+Drucker-Einstellung
+Ausgabemodus (gui, console, none)
+Drucksystem (lpd, cups)
+Drucken aus STDIN erlauben
+Keinen Druckdialog anzeigen (direkt drucken)
+Zu ladende Dateien
+Drucker-Information
+Druckerwarnung
+Druckerfehler
+Druckerinfo
+Druckerwarnung
+Druckerfehler
+Auf der Befehlszeile wurde eine Datei angegeben. Drucken aus STDIN wird daher deaktiviert.
+Bei Benutzung von„ --nodialog“ müssen Sie zumindest eine Datei angeben oder den Parameter„ --stdin“ verwenden.
+Es kann weder das angegebene Gerät noch der Standarddrucker gefunden werden.
+Vorgang abgebrochen
+Erzeugen des Druckdialogs nicht möglich
+Mehrere Dateien (%1)
+Öffnen der temporären Datei nicht möglich
+STDIN ist leer. Kein Druckauftrag übergeben.
+Kopieren von Datei %1 nicht möglich
+Fehler beim Drucken der Dateien
+Verwaltungsprogramm für die KDE-Arbeitsfläche, Kontrollleisten und Miniprogramme
+Plasma-Arbeitsfläche
+(c) 2006-2008, die KDE-Entwickler
+Aaron J. Seigo
+Autor und Betreuer
+Registriert die Anwendung als primäre Benutzerschnittstelle
+Die Geometrie des BildschirmsNAME OF TRANSLATORS
+Thomas ReitelbachEMAIL OF TRANSLATORS
+tr@erdfunkstelle.de
+Autor
+NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+GenericName
+Name
+BackgammonGenericName
+Backgammon-SpielName
+Name
+SammlungComment
+Sie können hier Ihre Gamefu-Sammlung konfigurieren.Name
+EmulatorComment
+Sie können hier den Emulator für jedes System konfigurieren.Name
+ModuleComment
+Sie können hier die allgemeinen Module konfigurieren.Name
+gamefuComment
+Gamefu - Eine KDE Alle-Maschinen-Emulator-Oberfläche für UNIXName
+Gamefu-VorschauerstellerName
+kfileGBA-InformationenComment
+Game Boy Advance ROM-DateiName
+kfileGBX-InformationenComment
+Game Boy/Game Boy Color ROM-DateiName
+Sega Genesis/Megadrive Meta-InformationenComment
+Sega Genesis/Megadrive ROM-DateiName
+NDS-InformationenName
+NDS-RomsComment
+NDS-RomName
+kfileNES-InformationenComment
+NES ROM-DateiName
+kfileSNES-InformationenComment
+SNES ROM-DateiComment
+Gamefu-ModulComment
+Gamefu-SystemName
+Gamefu BildfüllermodulComment
+Füllt das Titelbild und ein Bildschirmfoto in eine Datenbank.Name
+Gamefu Zufallsspiel-ModulComment
+Wählt ein zufälliges ROM aus der Datenbank aus.Name
+Gamefu GBA-ModulComment
+Fügt die Unterstützung für Game Boy Advance in Gamefu hinzuName
+Gamefu GBX-ModulComment
+Fügt die Unterstützung für Game Boy/Game Boy Color in Gamefu hinzuName
+Gamefu Sega Genesis/Megadrive-ModulComment
+Fügt die Unterstützung für Sega Genesis/Megadrive in Gamefu hinzuName
+Gamefu MAME-ModulComment
+Fügt die Unterstützung für MAME in Gamefu hinzuName
+Gamefu NES-ModulComment
+Fügt die Unterstützung für Nintendo Entertainment System in Gamefu hinzuName
+Gamefu SNES-ModulComment
+Fügt die Unterstützung für Super Nintendo Entertainment System in Gamefu hinzuName
+HiQGenericName
+HiQ/Peg SolitaireGenericName
+Mah JonggComment
+GenericName
+Mah JonggName
+KamalaGenericName
+Astrologie-ProgrammName
+KBackgammonName
+SPIEL BEENDET. Sie haben gewonnen!Comment
+Sie haben das aktuelle Backgammonspiel gewonnenName
+SPIEL BEENDET. Sie haben verloren!Comment
+Sie haben das aktuelle Backgammonspiel verlorenName
+Würfeln oder VerdoppelnComment
+Sie sind dran zu würfeln oder den Einsatz zu verdoppelnName
+Würfel werfenComment
+Sie sind dran zu würfelnName
+Comment
+Name
+Comment
+Name
+GenericName
+Name
+Description
+Name
+Description
+Standard-Design für Kigo in KDE 4Name
+ZMachine SpielinformationenComment
+Glulx SpieldatenComment
+TADS 3 SpielabbildComment
+TADS 2 SpielabbildComment
+Infocom Z-Machine SpieldatenName
+TADS SpielinformationenName
+MinigolfName
+KolladevGenericName
+Name
+KollagameGenericName
+SpielName
+StandardDescription
+Standard-Design für Kombination in KDE 4Name
+KOwareGenericName
+Das altertümliche afrikanische ZahlenspielName
+KPicrossComment
+KDE-BilderpuzzlespielGenericName
+BilderpuzzlespielName
+KPokerGenericName
+Poker-KartenspielName
+kqfGenericName
+Browser für SpieleserverComment
+Ein Browser für Online-SpieleserverName
+KrossWordPuzzleGenericName
+KreuzworträtselDescription
+Standard-Design für KTronName
+KrossWordPuzzleName
+Description
+Name
+KSimiliComment
+Name
+KSirtetName
+Tetris-SpielComment
+Name
+Spiel beendetComment
+Spiel beendetName
+Teil haftetDescription
+Die erste Karte für Testzwecke.Name
+KSpiralGenericName
+GenericBilderpuzzlespielName
+KTic-Tac-ToeName
+Ein Tic-Tac-Toe Spiel für KDEComment
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Der Rechner gewinntComment
+Name
+Comment
+Name
+Comment
+Name
+Comment
+Name
+Description
+Name
+GeometrieDescription
+Ein abstraktes Design mit hohem Kontrast.Name
+NonogramGenericName
+PuzzlespielComment
+Ein Spiel zum Puzzle-Lösen.Name
+ParsekGenericName
+Galaktisches StrategiespielComment
+Name
+Peg-EGenericName
+Knöpfe entfernenDescription
+Das Standard-Design für Peg-E.Name
+Standard - GrünDescription
+Das Standard-Design mit grünen Knöpfen.Name
+Standard - LilaDescription
+Das Standard-Design mit lila Knöpfen.Name
+Standard - RotDescription
+Das Standardspielfeld von Granatier.Name
+& Datei
+Öffnen
+Speichern unter
+& Spiel
+& Ansicht
+Haupt-Werkzeugleiste
+Abbrechen
+...
+OK
+Einstellungen
+International
+12x12NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Dies ist die Statusleiste. Sie zeigt in der rechten Ecke das zurzeit eingestellte Spielprogramm an.
+KBackgammon-Einstellungen
+Allgemein
+Information
+Optionen
+Dies ist das Haus des Spielbrettes. Je nach Richtung des Spiels enthält eines der beiden Häuser die Würfel und das andere die Spielsteine, die vom Brett entfernt wurden. Spielsteine, die einmal im Haus sind, können aus diesem nicht mehr herausgenommen werden. Wenn dieses Haus die Würfel enthält und der Spielstand dies zulässt, so werden die Würfel durch einen Doppelklick geworfen. Außerdem kann sich der Verdoppelungswürfel auf der Werkzeugleiste befinden. Wenn verdoppelt werden kann, so geschieht dies durch einen Doppelklick darauf.
+%1:
+9-Punkte-Spiel
+Wiederaufnehmen
+Passwort:
+& Liste von FreundenR means resume
+%1 will mit Ihnen ein gespeichertes Spiel fortsetzenU means unlimited
+%1 hat Sie zu einem unbegrenzten Spiel eingeladenIf the format of the (U) and (R) strings is changed, it should also be changed here
+Fehler, die Verbindung wurde abgelehnt.
+Fehler beim Auslesen des Sockets.
+Fehler, die Gegenstelle hat die Verbindung beendet.
+Netzwerkfehler
+Zurück
+Akzeptieren
+Ablehnen
+Status
+Client
+E-Mailabbreviate blind
+Babbreviate away
+Wabbreviate ready
+Aktualisieren
+& Wiederaufnehmen
+& Akzeptieren
+Ablehnen
+Autor
+& Spiel
+& Hilfe
+Haupt-Werkzeugleiste
+BefehlsleisteNAME OF TRANSLATORS
+Carsten NiehausEMAIL OF TRANSLATORS
+& Datei
+Haupt-Werkzeugleiste
+Zusammenfassung:
+Adresse:NAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+& Datei
+Haupt-WerkzeugleisteNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+%1 is the nick, %2 is the message
+%1 is the nick, %2 is the message
+%1 / %2Spectators not allowed
+Kommentar
+Ablehnen
+& Annehmen
+%1 represents the error message
+Name
+Fehler
+Status
+Bereit
+Name:
+& Sprache:
+Kommentar:
+Abbrechen
+OK
+Die Verbindung zum Server kann nicht hergestellt werden.
+1
+2
+& OK
+& Abbrechen
+SchließenNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+KDE-Pokerspiel
+& EinstellungenNAME OF TRANSLATORS
+Matthias Kiefer,Stephan Kulow,Thomas OhmsEMAIL OF TRANSLATORS
+Kreuz
+Karo
+Herz
+Pik
+Fehler
+As
+König
+Dame
+Bube
+Zwei
+Drei
+Vier
+Fünf
+Sechs
+Sieben
+Acht
+Neun
+Zehn[SuitesString] [ValueString]
+%1 %2
+Passen
+Einsatz: %1
+Behalten
+KGame debuggen
+Dieses Spiel speichern?
+& Ziehen
+Sie haben %1 gewonnen!
+%1 hat %2 gewonnen
+Computer %1
+Karte 1 tauschen
+& Sehen!
+Hauptfenster
+Konsole
+Allgemein
+Die Form des zweiten Spielers.NAME OF TRANSLATORS
+Johannes ObermayrEMAIL OF TRANSLATORS
+Start
+Wiederaufnehmen
+Beenden
+Bereit
+Keine
+Einstellungen
+Joshua KeelNAME OF TRANSLATORS
+Burkhard LückEMAIL OF TRANSLATORS
+Unbekanntes Paket
+Vorheriges Spiel
+Nächstes Spiel
+Nach oben
+Nach unten
+Nach links
+Nach rechts
+Lösen
+Nächste Farbe
+Hintergrund:
+NAME OF TRANSLATORS
+Burkhard LückEMAIL OF TRANSLATORS
+Bilder
+Farben
+& DateiNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+Hauptfenster
+Hinzufügen
+Copyright (c) 2008 David EdmundsonNAME OF TRANSLATORS
+EMAIL OF TRANSLATORS
+DirectShow9Comment
+Phonon-Treiber für DirectShow9Name
+GStreamerComment
+Phonon-Treiber für GStreamerGenericName
+Videoaufnahme-TestanwendungName
+videocapturetestappName
+FakeComment
+Treiber für TestzweckeName
+XineComment
+Phonon-Treiber für Xine
+Kopien
+Druckbereich
+Alles drucken
+Seiten von
+bis
+Auswahl
+Umgekehrt
+Einstellungen
+Farbe
+Keiner
+Drucker
+& Name:
+Pfad:
+Vorschau
+Typ:
+...
+Seite
+Seitengröße:
+Breite:
+Höhe:
+HochformatQPrintPreviewDialog
+QuerformatQPrintPreviewDialog
+Umgekehrtes Querformat
+& Rückgängig
+& Wiederherstellen
+& Ausschneiden
+& Kopieren
+& Verknüpfungsadresse kopieren
+& Einfügen
+LöschenQSql
+Alles auswählenQUnicodeControlCharacterMenu
+LRM Links-nach-rechts-MarkierungQUnicodeControlCharacterMenu
+RLM Rechts-nach-links-MarkierungQUnicodeControlCharacterMenu
+ZWJ Null-Breite-VerbinderQUnicodeControlCharacterMenu
+ZWNJ Null-Breite-NichtverbinderQUnicodeControlCharacterMenu
+ZWSP Null-Breite-AbstandQUnicodeControlCharacterMenu
+LRE Beginn der Links-nach-rechts-EinbettungQUnicodeControlCharacterMenu
+RLE Beginn der Rechts-nach-links-EinbettungQUnicodeControlCharacterMenu
+LRO Beginn der Links-nach-rechts-ÜberschreibungQUnicodeControlCharacterMenu
+PDF Ende der Richtungsformatierung
+Unicode-Steuerzeichen einfügenQFontDatabase
+NormalQFontDatabase
+FettItalic context menu item
+HalbfettQFontDatabase
+SchwarzQFontDatabase
+HalbQFontDatabase
+LeichtQFontDatabase
+KursivUnderline context menu item
+GeneigtQFontDatabase
+LateinQFontDatabase
+GriechischQFontDatabase
+KyrillischQFontDatabase
+ArmenischQFontDatabase
+HebräischQFontDatabase
+ArabischQFontDatabase
+SyrischQFontDatabase
+ThaanaQFontDatabase
+DevanagariQFontDatabase
+BengalischQFontDatabase
+GurmukhiQFontDatabase
+GujaratiQFontDatabase
+OriyaQFontDatabase
+TamilQFontDatabase
+TeluguQFontDatabase
+KannadaQFontDatabase
+MalayalamQFontDatabase
+SinhalaQFontDatabase
+ThailändischQFontDatabase
+LaotischQFontDatabase
+TibetischQFontDatabase
+MyanmarQFontDatabase
+GeorgischQFontDatabase
+KhmerQFontDatabase
+Chinesisch (Kurzzeichen)QFontDatabase
+Chinesisch (Langzeichen)QFontDatabase
+JapanischQFontDatabase
+KoreanischQFontDatabase
+VietnamesischQFontDatabase
+SymbolQFontDatabase
+OgamQFontDatabase
+RunenQShortcut
+Nein
+Rückgängig
+Wiederherstellen
+Pos1QShortcut
+Details anzeigen...
+Details ausblenden ...QMessageBox
+OKQDialogButtonBox
+HilfeQDialogButtonBox
+Über Qt
+& Drucken
+Name
+Wert
+ZurückForward context menu item
+< & Zurück
+Fortsetzen
+& Weiter
+& Weiter >
+Bestätigen
+Fertig
+& Fertigstellen
+AbbrechenQSql
+& Hilfe
+A1
+A2
+A3
+A4
+A5
+A6
+A7
+A8
+A9
+B1
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+B9
+DLE
+Executive
+Folio
+Ledger
+Legal
+Letter
+US Common #10 Umschlag
+Benutzerdefiniert
+EntfernenQPrintPreviewDialog
+Seite einrichten
+DruckenQShortcut
+Was ist das?
+%1 TB
+%1 GB
+%1 MB
+%1 KB
+%1 Byte
+Ungültiger Dateiname
+GrößeMatch OS X Finder
+ArtAll other platforms
+Typ
+Geändert am
+Datei schon vorhanden
+Auswahl druckenQPrintDialog
+Schriftart auswählen
+Schriftart
+Schriftstil
+& Größe
+Effekte
+Durchgestrichen
+& Unterstrichen
+Beispiel
+Schriftsystem
+%1%QPrintPreviewDialog
+DruckvorschauQPrintPreviewDialog
+Nächste SeiteQPrintPreviewDialog
+Vorherige SeiteQPrintPreviewDialog
+Erste SeiteQPrintPreviewDialog
+Letzte SeiteQPrintPreviewDialog
+SeitenbreiteQPrintPreviewDialog
+Ganze SeiteQPrintPreviewDialog
+VergrößernQPrintPreviewDialog
+VerkleinernQPrintPreviewDialog
+Einzelne Seite anzeigenQPrintPreviewDialog
+Gegenüberliegende Seiten anzeigenQPrintPreviewDialog
+SeiteneinrichtungQPrintPreviewDialog
+Exportieren zu PDFQPrintPreviewDialog
+Aliase: %1
+UnbekanntQFileDialog
+Mein Rechner
+%1 Byte(s)
+Falsch
+WahrQFileDialog
+LaufwerkQFileDialog
+DateiMatch Windows Explorer
+Aliase: %1All other platforms
+UnbekanntTitle string for images
+Aktivieren
+Aktiviert das Hauptfenster des ProgrammsQSoftKeyManager
+AuswählenQShortcut
+*QShortcut
+LeertasteQShortcut
+EscQShortcut
+TabQShortcut
+RücktabQShortcut
+RücktasteQShortcut
+EingabeQShortcut
+EingabeQShortcut
+EinfgQShortcut
+EntfQShortcut
+PauseQShortcut
+S-AbfQShortcut
+EndeQShortcut
+Pfeil linksQShortcut
+Pfeil hochQShortcut
+Pfeil rechtsQShortcut
+Pfeil runterQShortcut
+Bild aufQShortcut
+Bild abQShortcut
+FeststelltasteQShortcut
+Zahlen-FeststelltasteQShortcut
+Rollen-FeststelltasteQShortcut
+MenüQDB2Result
+ZurückQShortcut
+VorwärtsQShortcut
+AnhaltenReload context menu item
+AktualisierenQShortcut
+Lautstärke verringernQShortcut
+StummschaltenQShortcut
+Lautstärke anhebenQShortcut
+BassverstärkungPhonon::MMF::EffectFactory
+Bässe anhebenQShortcut
+Bässe vermindernQShortcut
+Höhen anhebenQShortcut
+Höhen vermindernQShortcut
+MedienwiedergabeQShortcut
+Voriges MediumQShortcut
+Nächstes MediumQShortcut
+StartseiteQShortcut
+FavoritenQShortcut
+Suchen
+BereitschaftQShortcut
+Adresse aufrufenQShortcut
+E-Mail-Programm startenQShortcut
+Starten (0)QShortcut
+Starten (1)QShortcut
+Starten (2)QShortcut
+Starten (3)QShortcut
+Starten (4)QShortcut
+Starten (5)QShortcut
+Starten (6)QShortcut
+Starten (7)QShortcut
+Starten (8)QShortcut
+Starten (9)QShortcut
+Starten (A)QShortcut
+Starten (B)QShortcut
+Starten (C)QShortcut
+Starten (D)QShortcut
+Starten (E)QShortcut
+Starten (F)QShortcut
+Bildschirm hellerQShortcut
+Bildschirm dunklerQShortcut
+Tastatur-LEDs an/ausQShortcut
+Tastatur-LEDs hellerQShortcut
+Tastatur-LEDs dunklerQShortcut
+AktivierungQShortcut
+AuswerfenQShortcut
+BildschirmschonerQShortcut
+WWWQShortcut
+RuhezustandQFontDatabase
+LeichtQShortcut
+AnhaltenQShortcut
+VerlaufQShortcut
+Verknüpfung kopierenQShortcut
+Finanzen
+BestätigenQShortcut
+VorwärtsQShortcut
+QShortcut
+QShortcut
+BuchQShortcut
+CDQShortcut
+Rechner
+Löschen
+LöschenQShortcut
+Schließen
+KopierenBack context menu item
+AusschneidenPaste context menu item
+AnzeigenQShortcut
+DOSQShortcut
+DokumenteQShortcut
+TabellenkalkulationQShortcut
+SpielQShortcut
+QShortcut
+iTouchQShortcut
+AbmeldenQShortcut
+MarktQShortcut
+BesprechungQShortcut
+TastaturmenüQShortcut
+MenüQShortcut
+Meine SeitenQShortcut
+HeimbüroQShortcut
+EinstellungQShortcut
+EinfügenNo Guesses Found context menu item
+TelefonQShortcut
+AntwortQShortcut
+Neu ladenCut context menu item
+Adresse
+AdresseQShortcut
+SpeichernQDialogButtonBox
+SendenQShortcut
+RechtschreibprüfungQShortcut
+Bildschirm teilenQShortcut
+UnterstützungQShortcut
+QShortcut
+TerminalQShortcut
+WerkzeugeQShortcut
+ReisenQShortcut
+VideoPhonon::
+TextverarbeitungQShortcut
+QShortcut
+VergrößernQShortcut
+VerkleinernQShortcut
+AbwesendQShortcut
+MessengerQShortcut
+E-Mail-WeiterleitungQShortcut
+BilderQShortcut
+AkkuQShortcut
+DrahtlosQShortcut
+VorwärtsQShortcut
+QShortcut
+UntertitelQShortcut
+QShortcut
+Ansicht
+MenüQShortcut
+RuhezustandQShortcut
+Tiefschlaf (Hibernate)QShortcut
+Bildschirm druckenQShortcut
+Bild aufQShortcut
+Bild abQShortcut
+HochstelltasteQShortcut
+Zahlen-FeststelltasteQShortcut
+Zahlenblock-FeststelltasteQShortcut
+Rollen-FeststelltastenQShortcut
+EinfügenQSql
+EscQShortcut
+System-AnforderungQShortcut
+JaQSql
+NeinQSql
+Kontext1QShortcut
+Kontext2QShortcut
+Kontext3QShortcut
+Kontext4QShortcut
+AnrufenQShortcut
+AuflegenQShortcut
+Umdrehen
+Strg
+Umschalt
+Alt
+Meta
++
+F%1Translate this string to the string 'LTR' in left-to-right languages or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout.
+am
+pm
+Hierher rollenQWebPage
+Linke KanteQWebPage
+ObenQWebPage
+Rechte KanteQWebPage
+UntenQWebPage
+Seite nach linksQWebPage
+Seite nach obenQWebPage
+Seite nach rechtsQWebPage
+Seite nach untenQWebPage
+Nach links rollenQWebPage
+Nach oben rollenQWebPage
+Nach rechts rollenQWebPage
+Nach unten rollenQWebPage
+Unterfenster schließenQDialogButtonBox
+& OKQDialogButtonBox
+& SpeichernQDialogButtonBox
+Öffnen
+& Abbrechen
+Schließen
+Anwenden
+Zurücksetzentext that appears at the start of nearly-obsolete web pages in the form of a 'searchable index'
+Nicht speichernQDialogButtonBox
+VerwerfenQDialogButtonBox
+& JaQDialogButtonBox
+Alles mit Ja beantwortenQDialogButtonBox
+& NeinQDialogButtonBox
+Alles mit Nein beantwortenQDialogButtonBox
+Alles speichernQDialogButtonBox
+AbbrechenQDialogButtonBox
+Erneut versuchenQDialogButtonBox
+IgnorierenSpelling and Grammar context sub-menu item
+Voreinstellungen wiederherstellen
+Einstellungen
+(Unbenannt)
+& Alles auswählen
+Schritt & aufwärts
+Schritt abwärts
+Minimieren
+Unteres wiederherstellen
+& Wiederherstellen
+& Verschieben
+& Minimieren
+Maximieren
+Fensterheber
+%1 - [%2]
+Fensterheber & rückgängig
+- [%1]
+Maximieren
+Fensterheber rückgängig
+Fensterheber
+Wiederherstellen
+Anweisung kann nicht ausgeführt werdenQSQLiteResult
+Variable kann nicht gebunden werden
+Zeile %1 kann nicht abgeholt werdenQDB2Result
+Nächstes kann nicht geholt werdenQODBCResult
+Erste kann nicht geholt werdenQODBCResult
+Verbindungsaufbau nicht möglich
+Transaktion kann nicht ausgeführt werdenQIBaseDriver
+Transaktion kann nicht rückgängig gemacht werdenQMYSQLResult
+Automatische Ausführung kann nicht aktiviert werdenQOCIResult
+Spalte kann nicht zur Stapelausfürung gebunden werdenQOCIResult
+Stapel-Anweisung kann nicht ausgeführt werdenQOCIResult
+„ Gehe zum Nächsten“ ist nicht möglichQOCIResult
+Die Allokation der Anweisung ist fehlgeschlagenQOCIResult
+Anweisungstyp kann nicht bestimmt werdenQOCIResult
+Wert kann nicht gebunden werdenQMYSQLResult
+Wert kann nicht initialisiert werden
+Anmeldung nicht möglichQOCIDriver
+Transaktion kann nicht begonnen werdenQSQLite2Result
+Verbindungsaufbau nicht möglich
+Datenbank kann nicht verwendet werdenQODBCResult
+Zeile kann nicht geholt werdenQODBCResult
+Vorherige kann nicht geholt werdenQODBCResult
+Abfrage kann nicht erzeugt werdenQPSQLResult
+Transaktion kann nicht ausgeführt werden
+BLOB kann nicht erzeugt werdenQIBaseResult
+BLOB kann nicht geöffnet werdenQIBaseResult
+Bereich (Array) kann nicht gefunden werdenQIBaseResult
+Bereichsdaten können nicht geholt werdenQIBaseResult
+Abfrageinformation kann nicht eingeholt werdenQIBaseResult
+Transaktion kann nicht begonnen werdenQIBaseDriver
+Anweisung kann nicht zugewiesen werdenQIBaseResult
+Anweisung kann nicht vorbereitet werdenQIBaseResult
+Anweisung kann nicht beschrieben werdenQIBaseResult
+Anweisung kann nicht geschlossen werdenQIBaseResult
+Abfrage kann nicht ausgeführt werdenQMYSQLResult
+Nächstes Element kann nicht geholt werdenQIBaseResult
+Informationen zur Anweisung können nicht geholt werden.QIBaseDriver
+Fehler beim Öffnen der DatenbankQSQLiteResult
+Daten können nicht geholt werdenQMYSQLResult
+Ergebnis kann nicht gespeichert werdenQMYSQLResult
+Nächste Abfrage kann nicht ausgeführt werdenQMYSQLResult
+Nächstes Ergebnis kann nicht gespeichert werdenQMYSQLResult
+Anweisung kann nicht zurückgesetzt werdenQSQLiteResult
+Ausgabewert kann nicht gebunden werdenQMYSQLResult
+Datenbank kann nicht geöffnet werden: '
+Zeile kann nicht abgeholt werdenQSQLiteResult
+Parameter können nicht gebunden werdenQSQLiteResult
+Kein Fehler festgestelltQRegExp
+Durch Konsument ausgelöster FehlerQXml
+Unerwartetes DateiendeQXml
+Beim Lesen des Elements ist ein Fehler aufgetretenQXml
+Beim Lesen des Inhalts ist ein Fehler aufgetretenQXml
+Unerwartetes ZeichenQXml
+Ungültiger Name für die VerarbeitungsanweisungQXml
+Beim Lesen der XML-Deklaration wurde eine Versionsangabe erwartetQXml
+Falscher Wert für EinzeldeklarationQXml
+Es wurde eine Dekodierungs- oder Einzeldeklaration beim Lesen der XML-Deklaration erwartetQXml
+Es wurde eine Einzeldeklaration beim Lesen der XML-Deklaration erwartetQXml
+Bei der Feststellung des Dokumenttyps ist ein Fehler aufgetretenQXml
+Beim Lesen des Kommentars ist ein Fehler aufgetretenQXml
+Beim Einlesen der Verknüpfung ist ein Fehler aufgetretenQXml
+Interne allgemeine Entität-Referenz ist nicht zulässig in der DTDQXml
+Extern eingelesene, allgemeine Entität-Referenz ist nicht zulässig bei AttributwertenQXml
+Extern eingelesene, allgemeine Entität-Referenz ist nicht zulässig in der DTDQXml
+Nicht eingelesene Entität-Referenz im falschen KontextQXml
+Rekursive EntitätenQXml
+Eingabe-Umleitung kann nicht zum Lesen geöffnet werden.
+Der Prozess lässt sich nicht starten.
+Die Wartezeit für Prozess-Operation ist abgelaufen.
+Fehler beim Lesen vom Prozess.
+Fehler beim Schreiben zum Prozess.
+Unbekannter FehlerLeft to Right context menu item
+%1 kann nicht als Eingabe geöffnet werden.
+Ungültiger Wert in Entität.
+Ungültes XML-Zeichen.
+Nicht unterstützte XML-Version.
+%1 ist kein gültiger Name für die Kodierung.
+Kodierung %1 wird nicht unterstützt.
+Vorzeitiges Dokumentende
+Ungültiges Dokument
+Erwartet
+Unerwartet: '
+Deaktivierte Funktion verwendetQRegExp
+Falsche Syntax für ZeichenklasseQRegExp
+Falsche Syntax für VorausschauenQRegExp
+Ungültiger OktalwertQRegExp
+Fehlender linker BegrenzerQRegExp
+Unerwartetes EndeQRegExp
+Ungültiger Oktalwert
+Ungültes XML-Zeichen.QIODevice
+Zugriff verweigertQNativeSocketEngine
+Zu viele offene DateienQIODevice
+Datei oder Ordner nicht gefundenQIODevice
+%1: bereits vorhandenQSystemSemaphore
+%1: nicht vorhanden
+%1: ungültige Größe
+%1: Zugriff verweigertQSystemSemaphore
+%1: unbekannter Fehler %2
+%1: Schlüssel-Fehler
+%1: nicht vorhandenQSystemSemaphore
+%1: nicht vorhanden
+%1: ftok fehlgeschlagen
+%1: UNIX-Schlüssel-Datei ist nicht vorhanden
+mmap für„ %1“ nicht möglich: %2
+unmap für„ %1“ nicht möglich: %2
+Die Bibliothek kann nicht gefunden werden.
+Die Datei„ %1“ ist kein gültiges Qt-Modul.
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. (%2.%3.%4) [%5]
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. Erwartete Erstellungs-Kennung :„ %2“, erhaltene Kennung :„ %3“
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. (Gemischte Bibliotheken für Debug und Veröffentlichung sind nicht möglich.)
+Das Modul wurde nicht geladen.
+Fehler beim Öffnen von %1: %2
+Unbekannter Fehler
+Fehler beim Öffnen von %1: %2
+Netzwerk-Zeitüberschreitung
+%1 ist ungültig als Wert vom Typ %2.
+Typumwandlung des Wertes %1 von Typ %2 nach %3 nicht möglich
+Fehler bei der Typumwandlung von %1 nach %2: %3
+Der Fokus ist undefiniert.
+Eins oder mehr
+Das Encoding %1 wird nicht unterstützt.
+Suchmuster sind unabhängig von Groß-/Kleinschreibung
+%1 ist ein ungültiger regulärer Ausdruck als Suchmuster: %2
+%1 ist ein ungültiger Schalter für reguläre Ausdrücke. Gültige Schalter sind:
+%1 ist ein ungültiger %2
+%1 ist kein gülties XML-1.0-Zeichen.
+Die Variable %1 wird nicht verwendet
+%1 ist ein unbekannter Schema-Typ.
+%1 ist kein gültiges Zahlwort.
+Der Ziel-Namensraum von %1 darf nicht leer sein.
+Modul-Import wird nicht unterstützt.
+%1 ist kein gültiger Name für einen Vorlagenmodus.
+Der Name %1 referenziert keinen Schema-Typ.
+%1 ist kein gültiger Name für eine Prozessing-Instruktion.
+%1 ist kein gültiger Name für die Kodierung.
+Ungültiges Dokument
+%1 enthält ungültige Daten.
+Die Variable %1 wird nicht verwendet
+%1 ist ungültig als Wert vom Typ %2.
+%1 ist ein ungültiger regulärer Ausdruck als Suchmuster: %2
+%1: bereits vorhanden
+AktualisierenQSql
+Diesen Eintrag löschen?QSql
+Änderungen speichern?QSql
+BestätigenQSql
+Änderungen verwerfen?
+Voreinstellungen
+Mehrdeutige %1 nicht verarbeitet
+Zeile aufwärts
+Benutzerdefiniert...
+Mehr...
+Fehler beim Laden des privaten Schlüssels, %1
+Lesefehler: %1
+Fehler bei der SSL-Aushandlung: %1QNativeSocketEngine
+Netzwerkfehler
+Der Name %1 referenziert keinen Schema-Typ.
+%1 kann nicht geöffnet werden: Es handelt sich um einen Ordner.
+Fehler beim Herunterladen von %1: %2
+Fehler beim Hochladen von %1: %2
+Operation nicht unterstützt für %1
+Ungültige URI: %1QNetworkReply
+Protokoll„ %1“ ist unbekannt
+Operation abgebrochen.QNetworkAccessFileBackend
+%1 kann nicht geöffnet werden: Pfad ist ein OrdnerQNetworkAccessFileBackend
+Fehler beim Öffnen von %1: %2
+Fehler beim Schreiben in %1: %2QNetworkAccessFileBackend
+Socketfehler auf %1: %2
+Die entfernte Gegenstelle hat die Verbindung vorzeitig beendet (%1)QNetworkAccessCacheBackend
+Fehler beim Öffnen von %1QNetworkReply
+Fehler beim Lesen von %1: %2
+Ungültiger Dateiname
+Unbekannter Adresstyp
+Rechner nicht gefundenQAbstractSocket
+Dieses System unterstützt kein IPv6
+Verbindung zum Proxy abgelehnt
+Verbindung zum Proxy vorzeitig beendet
+Proxy-Rechner nicht gefunden
+Wartezeit für Verbindung zum Proxy abgelaufen
+Netzwerk nicht erreichbarQNativeSocketEngine
+Verbindung abgelehntQNativeSocketEngine
+Adresstyp wird nicht unterstützt
+Unbekannter SOCKSv5-Fehlercode 0x%1QSocks5SocketEngine
+Wartezeit für Netzwerkoperation abgelaufenQNativeSocketEngine
+Diese Socket-Operation wird nicht unterstütztQNativeSocketEngine
+Nicht-blockierender Socket kann nicht initialisiert werdenQNativeSocketEngine
+Broadcast-Socket kann nicht initialisiert werdenQNativeSocketEngine
+Es wurde versucht, einen IPv6-Socket auf einem System ohne IPv6-Unterstützung zu verwenden.QNativeSocketEngine
+Die Gegenstelle hat die Verbindung beendetQSocks5SocketEngine
+Socket-Operation wird nicht unterstütztQNativeSocketEngine
+Protokolltyp wird nicht unterstütztQNativeSocketEngine
+Ungültige Socket-BeschreibungQNativeSocketEngine
+Wartezeit für Verbindung abgelaufenQNativeSocketEngine
+Die gebundene Adresse wird bereits verwendetQNativeSocketEngine
+Die Adresse ist nicht verfügbarQNativeSocketEngine
+Die Adresse ist geschütztQNativeSocketEngine
+Es kann keine Nachricht versendet werdenQNativeSocketEngine
+Es kann keine Nachricht empfangen werdenQNativeSocketEngine
+Schreiben nicht möglichQNativeSocketEngine
+NetzwerkfehlerQNativeSocketEngine
+Ein anderer Socket belegt bereits den gleichen PortQNativeSocketEngine
+Operation auf einem Nicht-SocketQNativeSocketEngine
+Der Proxytyp ist für diese Operation ungültig
+Wartezeit für Socket-Operation ist abgelaufen
+Socket ist nicht verbunden
+Zeile:
+Interrupt
+Umschalt+F5
+Einzelschritt
+F11
+Überspringen
+F10
+Funktion verlassen
+Umschalt+F11
+Ab Cursorposition
+Strg+F10
+In Skript & suchen...
+Strg+F
+& Weitersuchen
+Frühere suchen
+Umschalt+F3
+Strg+G
+Zurück
+Weiter
+nbsp;Die Suche hat das Ende erreicht
+Adresse
+Bedingung
+Anzahl ignorierte
+Single-Shot
+Aufrufstapel
+Lokale Variablen
+Konsole
+Qt Skript-Debugger
+Ebene
+%1: ftok fehlgeschlagen
+Fehler beim Öffnen von %1QNetworkAccessCacheBackend
+Fehler beim Öffnen von %1
+DebuggerausgabePhonon::MMF
+Protokolltyp wird nicht unterstützt
+Phonon::MMF::EffectFactory
+QShortcut
+Phonon::MMF::EffectFactory
+Weniger
+AusrichtungPhonon::MMF::EffectFactory
+Rechner nicht gefundenQNativeSocketEngine
+Adresstyp wird nicht unterstützt
+Underline context menu item
+Unterstrichen
+%1: bereits vorhanden
+Rechner nicht gefunden
+Einfügen
+Zugriff verweigertQIBaseResult
+Nächstes Element kann nicht geholt werden
+Socket ist nicht verbunden
+Netzwerkfehler
+Operation nicht unterstützt für %1
+Ungültiger Dateiname
+Ungültige URI: %1
+Protokolltyp wird nicht unterstützt
+Netzwerkfehler
+Netzwerkfehler
+Unbekannter Fehler
+Die Medienquelle kann nicht geöffnet werden.
+Ungültiger Quellentyp.
+Die Medienquelle kann nicht gefunden werden.
+Hinweis: Die grundlegenden GStreamer-Module scheinen nicht installiert zu sein. Daher wurden alle Audio- und Video-Funktionen deaktiviert.
+Lautstärke: %1%
+BenachrichtigungenPhonon::
+KommunikationPhonon::
+SpielePhonon::
+Absendendefault label for Reset buttons in forms on web pages
+Dies ist ein durchsuchbarer Index. Geben Sie Stichwörter ein: title for file button used in HTML forms
+Datei auswÃ¤hlentext to display in file button used in HTML forms when no file is selected
+Keine Datei ausgewähltOpen in New Window context menu item
+In neuem Fenster Ã¶ffnenDownload Linked File context menu item
+Verknüpfung speichern unter ...Copy Link context menu item
+Verknüpfung kopierenOpen Image in New Window context menu item
+Bild öffnenDownload Image context menu item
+Bild speichernCopy Link context menu item
+Bild kopierenOpen Frame in New Window context menu item
+Rahmen Ã¶ffnenCopy context menu item
+VorwärtsStop context menu item
+Zum Wörterbuch hinzufügenSearch The Web context menu item
+Im Internet suchenLook Up in Dictionary context menu item
+In Wörterbuch nachschlagenOpen Link context menu item
+Verknüpfungsadresse Ã¶ffnenIgnore Grammar context menu item
+Rechtschreibungmenu item title
+Rechtschreibung und Grammatik anzeigenmenu item title
+Rechtschreibung prÃ¼fenCheck spelling while typing context menu item
+Rechtschreibung während dem Schreiben prüfenCheck grammar with spelling context menu item
+Grammatik und Rechtschreibung prÃ¼fenFont context sub-menu item
+SchriftartenBold context menu item
+UnterstrichenOutline context menu item
+UmrandungWriting direction context sub-menu item
+RichtungText direction context sub-menu item
+TextrichtungDefault writing direction context menu item
+VoreinstellungLeft to Right context menu item
+Rechte KanteInspect Element context menu item
+InspizierenLabel for only item in menu that appears when clicking on the search field image, when no searches have been performed
+Keine kürzlichen Suchenlabel for first item in the menu that appears when clicking on the search field image, used as embedded menu title
+Kürzliche Suchenmenu item in Recent Searches menu that empties menu's contents
+%1 (%2x%3 Pixel)Media controller status message when the media is loading
+Media controller status message when watching a live broadcast
+Media controller element
+Audio-ElementMedia controller element
+Video-ElementMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Schieberegler-AnfasserMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Verstrichene ZeitMedia controller element
+RestzeitQShortcut
+AnzeigenMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Wiedergabe startenMedia controller element
+Wiedergabe anhaltenMedia controller element
+Media controller element
+EntfernenMedia controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media controller element
+Media time description
+Media time description
+%1 Tage %2 Stunden %3 Minuten %4 SekundenMedia time description
+%1 Stunden %2 Minuten %3 SekundenMedia time description
+%1 Minuten %2 SekundenMedia time description
+Cursor an das Ende des Dokuments setzen
+Alles auswählen
+Bis zum nächsten Zeichen auswählen
+Bis zum Ende des Dokuments auswählen
+Durchgestrichendefault label for Submit buttons in forms on web pages
+Absenden
+Einfügen
+Eingabe
+QShortcut
+Pfeil rechts
+Parse-Fehler: %1QWebPage
+System
+Nach unten wiederherstellen
+Schließt das Fenster
+Häkchen setzen
+Drücken
+Mehr
+Weniger
+Position
+Zeile abwÃ¤rts
+Drehregler
+Links rollen
+Rechts rollen
+Andocken
+Schwebend
+Ausführen
+Eingabemethode auswählen
+Umschalter für mehrere Eingabemethoden, der das Kontextmenü von Text-Eingabefeldern verwendetQPrintPreviewDialog
+Lautstärke: %1%
+Verwenden Sie den Schieberegler zum Einstellen der Lautstärke. Die äußerste linke Position entspricht 0%, die rechte Position entspricht %1%.
+Stummgeschaltet
+Zurückschalten auf Gerät„ %1“ Phonon::
+BenachrichtigungenPhonon::
+MusikPhonon::
+VideoPhonon::
+KommunikationPhonon::
+SpielePhonon::
+ZugangshilfenNAME OF TRANSLATORS
+Die Wiedergabe kann nicht gestartet werden. Prüfen Sie bitte die Installation von GStreamer und stellen Sie sicher, dass das Modul libgstreamer-plugins-base installiert ist.
+Medienquelle kann nicht geöffnet werden.
+Ungültiger Quellentyp.
+Medienquelle kann nicht gefunden werden.
+Das Audio-Gerät kann nicht geöffnet werden. Das Gerät wird bereits anderweitig verwendet.
+Medienquelle kann nicht dekodiert werden.
+Hinweis: Das Paket gstreamer0.10-plugins-good scheint nicht installiert zu sein. Einige Video-Funktionen wurden daher deaktiviert.
+Hinweis: Die grundlegenden GStreamer-Module scheinen nicht installiert zu sein. Alle Audio- und Video-Funktionen wurden daher deaktiviert.
+Phonon Xine-Treiber
+ALSA-Standard-AusgabeThis string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+OSS-Standard-AusgabeThis string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+aRts
+Esound (ESD)
+Die Wiedergabe ist fehlgeschlagen, weil keine verwendbaren Video- oder Audio-Ausgabegeräte verfügbar sind.
+PulseAudio
